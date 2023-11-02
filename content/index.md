@@ -8,7 +8,7 @@ tags:
 
 [twitter](https://x.com/photon_mz) | [github](https://github.com/photomz) | [resume](https://drive.google.com/file/d/1l382vhcYYeJLTqFLtrFpgCJtyQ7puV3b/view?usp=sharing) | [email](mailto:markuszhang8@gmail.com)
 
-Hey, I'm Markus! On gap year from Stanford CS, I'm self-learning AI ([& math](https://x.com/photon_mz/status/1717154442024509589?s=20)) to research LLM interpretability.
+Yo, I'm Markus! On gap year from Stanford CS, I'm self-learning AI ([& math](https://x.com/photon_mz/status/1717154442024509589?s=20)) to research LLM interpretability.
 
 I also write thinly-veiled allegories about my life in [Substack](https://photonmz.substack.com/).
 
