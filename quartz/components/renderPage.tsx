@@ -125,21 +125,23 @@ export function renderPage(
           <Body {...componentData}>
             {LeftComponent}
             <div class="center">
-              <div class="page-header">
-                <Header {...componentData}>
-                  {header.map((HeaderComponent) => (
-                    <HeaderComponent {...componentData} />
-                  ))}
-                </Header>
-                <div class="popover-hint">
-                  {beforeBody.map((BodyComponent) => (
-                    <BodyComponent {...componentData} />
-                  ))}
+              {slug != "index" && (
+                <div class="page-header">
+                  <Header {...componentData}>
+                    {header.map((HeaderComponent) => (
+                      <HeaderComponent {...componentData} />
+                    ))}
+                  </Header>
+                  <div class="popover-hint">
+                    {beforeBody.map((BodyComponent) => (
+                      <BodyComponent {...componentData} />
+                    ))}
+                  </div>
                 </div>
-              </div>
+              )}
               <Content {...componentData} />
             </div>
-            {RightComponent}
+            {slug != "index" && RightComponent}
           </Body>
           <Footer {...componentData} />
         </div>
