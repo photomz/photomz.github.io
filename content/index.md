@@ -1,7 +1,8 @@
 ---
-title: "Markus Zhang"
+title: Markus Zhang
 tags:
   - evergreen
+private: false
 ---
 
 <img src="./pfp.jpg" width="250" height="250"/>
