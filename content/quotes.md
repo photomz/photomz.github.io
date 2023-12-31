@@ -1,0 +1,21 @@
+---
+title: Quotes
+---
+- If you feel exhausted, it's not necessarily because there's something wrong with you. Maybe you're just running fast. - Paul Graham
+- Criticism and controversy means you’re doing something right - something so impactful, people don’t like it.
+- If you create a community whose founding principle is 'no witch hunts', you're going to end up with a few committed idealists and ten thousand witches -- [Scott Alexander](https://slatestarcodex.com/2017/05/01/neutral-vs-conservative-the-eternal-struggle/)
+- One day, in retrospect, the years of struggle will strike you as the most beautiful. - Freud
+- If you want these crazy ideas and these crazy stages, this crazy music, and this crazy way of thinking, there’s a chance it might come from a crazy person - Kanye West
+- And the price we paid was the price men have always paid for achieving a paradise in this life—we went soft, we lost our edge. - Frank Hubert, Dune
+- The cost of inaction is the status quo. If you're ok where you are, then you don't need to do anything. But if you want to get to the next level, you need to understand the cost of doing nothing.” - Farnam Street
+- By leading the pack in a rat’s race, you’re only playing a fool’s game _faster_.
+- Heisenberg Uncertainty of time - you can see the future, or change the future, but not both. Seeing a clear future paralyses you, and change steers you into a blind unknown. If you want to change, embrace not knowing.
+- The market can remain irrational longer than you can remain solvent. The world can remain irrational longer than you can remain alive.
+- We don’t overcome our biggest problems, we outgrow them, so they don’t define us anymore.
+- I’m surrounded by a lot of intense, smart people who are also deeply insecure - nix
+- A lot of young people are in a great hurry to say, “I am impactful”. And I think impact is built over time - Barack Obama
+- Heuristic: do your friends at school think your path is a bit strange? If not, maybe it's too normal. - Patrick Collison
+- Asking for critical feedback: “If you can’t make me cry, I won’t value you as a friend anymore” - Patrick Winston, MIT
+- What is grief, if not love persevering? - WandaVision
+- The only rules are the ones dictated by the laws of physics. Everything else is a recommendation. - Elon Musk
+- This is how civilizations decline. They quit taking risks. And when they quit taking risks, their arteries harden. Every year there are more referees and fewer doers. When you've had success for too long, you lose the desire to take risks. - Elon Musk

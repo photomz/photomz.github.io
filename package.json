@@ -1,12 +1,12 @@
 {
-  "name": "@jackyzha0/quartz",
+  "name": "@photon_mz/quartz",
   "description": "🌱 publish your digital garden and notes as a website",
   "private": true,
   "version": "4.1.0",
   "type": "module",
-  "author": "jackyzha0 <j.zhao2k19@gmail.com>",
+  "author": "markus zhang <markuszhang8@gmail.com>",
   "license": "MIT",
-  "homepage": "https://quartz.jzhao.xyz",
+  "homepage": "https://markusz.dev",
   "repository": {
     "type": "git",
     "url": "https://github.com/jackyzha0/quartz.git"
@@ -16,7 +16,8 @@
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",
     "test": "tsx ./quartz/util/path.test.ts",
-    "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1"
+    "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
+    "build": "npx quartx build --serve"
   },
   "engines": {
     "npm": ">=9.3.1",
