@@ -10,6 +10,9 @@ I'm toying with the idea of public accountability -- when you loudly precommit t
 	- Against Rational Choice Theory ... when do we make split-second judgements, when do we halt autopilot and reason?
 - Elon Musk -- Walter Isaacson
 ### Read
+- Foundation 2 -- Issac Asimov (7 Jan 2024)
+	- *Review* -- A gripping sci-fi tale of man's return from nuclear tech to farming across the Galaxy, and the Foundation against it. Stokes imagination of an intergalactic future, giving satisfying just-so deductions of politics and war that historians despise and engineers adore.
+	- *Reflection* -- I'm starting to love sci-fi for their stoic 'View from Above' -- on a cosmic scale, your actions matter little; but that's no reason to despair! The Universe is majestic and divine, and you're so lucky to be a speck of that oneness, so maybe forgive that friend who insulted your beliefs. Maybe your cold feet on a foggy San Francisco morning, at a cosmic scale, is simply ok -- no reason to curse weather.
 - Freakonomics -- Steven Levitt (24 Dec)
 - Foundation 1 -- Issac Asimov (10 Dec)
 - The Hitchhiker’s Guide To The Galaxy 1 -- Douglas Adams (4 Dec)
