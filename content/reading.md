@@ -3,9 +3,7 @@ title: Reading Log
 ---
 When you precommit to reading, you will read!
 ### Currently Reading
-- From Third World to First: The Singapore Story -- Lee Kwan Yew's memoirs
-- Creative Selection -- Ken Kocienda
-	-   How did an Apple Principal Engineer design the iPhone?
+- Leonardo Da Vinci -- Walter Issacson
 - How to Think Like a Roman Emperor -- Donald Robertson
 	-  A refresher to Marcus Aurelius and stoicism in Roman history.
 - The Design of Everyday Things -- Don Norman
@@ -13,7 +11,13 @@ When you precommit to reading, you will read!
 - Thinking, Fast and Slow -- Daniel Kahneman
 	- Against Rational Choice Theory ... when do we make split-second judgements, when do we halt autopilot and reason?
 - Elon Musk -- Walter Isaacson
+- The Everything Store, Jeff Bezos -- Brad Stone
+- Creativity -- Mihaly Csikszentmihalyi
 ### Read
+- Creative Selection -- Ken Kocienda (12 Apr 2024)
+	-   How did an Apple Principal Engineer design the iPhone?
+- Dune 2 -- Frank Herbert (10 Apr 2024)
+- From Third World to First: The Singapore Story -- Lee Kwan Yew's memoirs (5 Apr 2024)
 - Three-Body Problem -- Cixin Liu (1 Apr 2024)
 - Foundation 3 -- Issac Asimov (9 Jan 2024)
 - Foundation 2 -- Issac Asimov (7 Jan 2024)
