@@ -3,7 +3,7 @@ title: Reading Log
 ---
 When you precommit to reading, you will read!
 ### Currently Reading
-- Leonardo Da Vinci -- Walter Issacson
+- The Making of the Atomic Bomb -- Richard Rhodes
 - How to Think Like a Roman Emperor -- Donald Robertson
 	-  A refresher to Marcus Aurelius and stoicism in Roman history.
 - The Design of Everyday Things -- Don Norman
@@ -12,13 +12,18 @@ When you precommit to reading, you will read!
 	- Against Rational Choice Theory ... when do we make split-second judgements, when do we halt autopilot and reason?
 - Elon Musk -- Walter Isaacson
 - The Everything Store, Jeff Bezos -- Brad Stone
-- Creativity -- Mihaly Csikszentmihalyi
 ### Read
+- Public Administration Singapore-Style, Jon Quah (27 May 2024)
+- Norweigan Wood -- Murakami (26 May 2024)
+- CS229 Machine Learning -- Andrew Ng & Tengyu Ma (15 May 2024)
+- Creativity -- Mihaly Csikszentmihalyi (27 Apr 2024)
+- The Outsider -- Albert Camus (24 Apr 2024)
+- Leonardo Da Vinci -- Walter Issacson (20 Apr 2024)
 - Creative Selection -- Ken Kocienda (12 Apr 2024)
 	-   How did an Apple Principal Engineer design the iPhone?
 - Dune 2 -- Frank Herbert (10 Apr 2024)
 - From Third World to First: The Singapore Story -- Lee Kwan Yew's memoirs (5 Apr 2024)
-- Three-Body Problem -- Cixin Liu (1 Apr 2024)
+- The Three-Body Problem -- Cixin Liu (1 Apr 2024)
 - Foundation 3 -- Issac Asimov (9 Jan 2024)
 - Foundation 2 -- Issac Asimov (7 Jan 2024)
 	- *Review* -- A gripping sci-fi tale of man's return from nuclear tech to farming across the Galaxy, and the Foundation against it. Stokes imagination of an intergalactic future, giving satisfying just-so deductions of politics and war that historians despise and engineers adore.
