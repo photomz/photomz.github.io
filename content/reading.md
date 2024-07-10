@@ -13,6 +13,15 @@ When you precommit to reading, you will read!
 - Elon Musk -- Walter Isaacson
 - The Everything Store, Jeff Bezos -- Brad Stone
 ### Read
+- Brave New World -- Aldous Huxley (9 Jul 2024)
+- Principles for the Changing World Order -- Ray Dalio (7 Jul 2024)
+- 21 Lessons the 21st Century -- Yuval Noah Harari (26 Jun 2024)
+- Life, the Universe and Everything (Hitchhiker's 3) -- Douglas Adams (19 Jun 2024)
+- Restaurant at the End of the Universe (Hitchhiker's 2) -- Douglas Adams (15 Jun 2024)
+- Elon Musk -- Ashlee Vance (12 Jun 2024)
+- The Myth of Sisyphus -- Albert Camus (31 May 2024)
+	- *Summary* -- Life is absurd! We want reasons and meaning, but we get an endlessly chaotic universe -- this paradox is the Absurd. If life has no universal meaning, should you kill yourself? No, Camus argues, we must revolt against death and construct our own meaning. We must enjoy the precious little time left to do whatever we please -- or, *carpe diem*. Without universal nature, human rules are not moral punishments to blame but consequences to accept. Sisyphus is not miserable. His pointless struggle to push a rock up a hill is really his happy defiance against God -- his very own choice of meaning.
+	- *Review* -- Camus had 1000 years of Christian political dogma to reject; today, existentialism seems obvious. His insistence on the 'absurd' makes him disavow universal meaning, but he also downplays human-constructed meaning, -- like markets, technology, societies, family, etc -- which is incorrect ...
 - Public Administration Singapore-Style, Jon Quah (27 May 2024)
 - Norweigan Wood -- Murakami (26 May 2024)
 - CS229 Machine Learning -- Andrew Ng & Tengyu Ma (15 May 2024)
