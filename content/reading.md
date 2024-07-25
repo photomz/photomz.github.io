@@ -13,9 +13,11 @@ When you precommit to reading, you will read!
 - Elon Musk -- Walter Isaacson
 - The Everything Store, Jeff Bezos -- Brad Stone
 ### Read
+- The Origins of Political Order -- Francis Fukuyama (26 Jul 2024)
 - Brave New World -- Aldous Huxley (9 Jul 2024)
 - Principles for the Changing World Order -- Ray Dalio (7 Jul 2024)
-- 21 Lessons the 21st Century -- Yuval Noah Harari (26 Jun 2024)
+- What We Owe The Future -- William MacAskill (3 Jul 2024)
+- 21 Lessons for the 21st Century -- Yuval Noah Harari (26 Jun 2024)
 - Life, the Universe and Everything (Hitchhiker's 3) -- Douglas Adams (19 Jun 2024)
 - Restaurant at the End of the Universe (Hitchhiker's 2) -- Douglas Adams (15 Jun 2024)
 - Elon Musk -- Ashlee Vance (12 Jun 2024)
