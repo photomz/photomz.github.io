@@ -10,9 +10,22 @@ When you precommit to reading, you will read!
 	- Limelight of industrial design, he practiced Human-Computer Interaction (HCI) at Apple before it was a word.
 - Thinking, Fast and Slow -- Daniel Kahneman
 	- Against Rational Choice Theory ... when do we make split-second judgements, when do we halt autopilot and reason?
-- Elon Musk -- Walter Isaacson
 - The Everything Store, Jeff Bezos -- Brad Stone
+
+- Superfreakonomics 
+- Man's Search for Meaning
+- The True Believer
+- Can't Hurt Me
+- Lee Kwan Yew: Hard Truths to Keep Singapore Going
+- Long Walk to Freedom, Nelson Mandela
+- The Creative Act
+- Napoleon's Art of War
 ### Read
+
+- Games People Play -- Eric Berne
+- Siddartha -- Herman Hesse
+- The Metamorphosis -- Kafka
+- The Alchemist -- Paulo Cohelo
 - The Origins of Political Order -- Francis Fukuyama (26 Jul 2024)
 - Brave New World -- Aldous Huxley (9 Jul 2024)
 - Principles for the Changing World Order -- Ray Dalio (7 Jul 2024)
@@ -42,6 +55,10 @@ When you precommit to reading, you will read!
 - Freakonomics -- Steven Levitt (24 Dec)
 - Foundation 1 -- Issac Asimov (10 Dec)
 - The Hitchhiker’s Guide To The Galaxy 1 -- Douglas Adams (4 Dec)
+- Elon Musk -- Walter Issacson (3 Dec)
+	- *Notes on Elon*: His biographies reek of lurid superfluous detail, as rich person drama sells. Like historians, they piece together a puzzle and hear all views, but lacking a thorough logic of why and how his businesses work, they resort to syllogisms, sensational anecdotes and he-said-she-said. In that respect, his TED interview is logically clearer and veers off less tangents. Of a man who tirelessly aims to transcend and suffer for a wider humanity, books obsessing over Elon’s cult of personality miss the point quite pitifully.
+	- Elon’s own words show it better than his biographers’—he’s as technical as they come, dodges reporters prying for manic-depressive tabloid gossip, and obsesses over unbeatable process and execution to get it done. Vance and Isaacson wanted a mythical strongman when really primary sources—his process, patents, line of thinking, emails—reveal far more to readers who endeavor to name Musk on their List of Influences upon becoming famous.
+	- Anything attempting a serious study of Musk should avert their eyes.
 - Sapiens -- Yuval Harari (1 Dec)
 - Breakfast at Tiffany’s -- Truman Capote (25 Nov)
 - Steve Jobs -- Walter Isaacson (10 Nov)
