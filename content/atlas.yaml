@@ -1,0 +1,5529 @@
+graph:
+  Afghanistan:
+  - New Jersey
+  - North Korea
+  - New Caledonia
+  - Nicaragua
+  - Niger
+  - North Macedonia
+  - Netherlands
+  - New York
+  - North Dakota
+  - New Zealand
+  - Nepal
+  - Nauru
+  - New Hampshire
+  - Namibia
+  - Nevada
+  - Norfolk Island
+  - New Mexico
+  - Niue
+  - Nebraska
+  - Northern Mariana Islands
+  - North Carolina
+  - Norway
+  - Nigeria
+  Alabama:
+  - Anguilla
+  - Algeria
+  - Azerbaijan
+  - Argentina
+  - Arizona
+  - Albania
+  - Antarctica
+  - Australia
+  - Arkansas
+  - Aruba
+  - Alaska
+  - Antigua and Barbuda
+  - Afghanistan
+  - American Samoa
+  - Angola
+  - Austria
+  - Armenia
+  - Andorra
+  Alaska:
+  - Anguilla
+  - Alabama
+  - Algeria
+  - Azerbaijan
+  - Argentina
+  - Arizona
+  - Albania
+  - Antarctica
+  - Australia
+  - Arkansas
+  - Aruba
+  - Antigua and Barbuda
+  - Afghanistan
+  - American Samoa
+  - Angola
+  - Austria
+  - Armenia
+  - Andorra
+  Albania:
+  - Anguilla
+  - Alabama
+  - Algeria
+  - Azerbaijan
+  - Argentina
+  - Arizona
+  - Antarctica
+  - Australia
+  - Arkansas
+  - Aruba
+  - Alaska
+  - Antigua and Barbuda
+  - Afghanistan
+  - American Samoa
+  - Angola
+  - Austria
+  - Armenia
+  - Andorra
+  Algeria:
+  - Anguilla
+  - Alabama
+  - Azerbaijan
+  - Argentina
+  - Arizona
+  - Albania
+  - Antarctica
+  - Australia
+  - Arkansas
+  - Aruba
+  - Alaska
+  - Antigua and Barbuda
+  - Afghanistan
+  - American Samoa
+  - Angola
+  - Austria
+  - Armenia
+  - Andorra
+  American Samoa:
+  - Anguilla
+  - Alabama
+  - Algeria
+  - Azerbaijan
+  - Argentina
+  - Arizona
+  - Albania
+  - Antarctica
+  - Australia
+  - Arkansas
+  - Aruba
+  - Alaska
+  - Antigua and Barbuda
+  - Afghanistan
+  - Austria
+  - Angola
+  - Armenia
+  - Andorra
+  Andorra:
+  - Anguilla
+  - Alabama
+  - Algeria
+  - Azerbaijan
+  - Argentina
+  - Arizona
+  - Albania
+  - Antarctica
+  - Australia
+  - Arkansas
+  - Aruba
+  - Alaska
+  - Antigua and Barbuda
+  - Afghanistan
+  - American Samoa
+  - Angola
+  - Austria
+  - Armenia
+  Angola:
+  - Anguilla
+  - Alabama
+  - Algeria
+  - Azerbaijan
+  - Argentina
+  - Arizona
+  - Albania
+  - Antarctica
+  - Australia
+  - Arkansas
+  - Aruba
+  - Alaska
+  - Antigua and Barbuda
+  - Afghanistan
+  - American Samoa
+  - Austria
+  - Armenia
+  - Andorra
+  Anguilla:
+  - Alabama
+  - Algeria
+  - Azerbaijan
+  - Argentina
+  - Arizona
+  - Albania
+  - Antarctica
+  - Australia
+  - Arkansas
+  - Aruba
+  - Alaska
+  - Antigua and Barbuda
+  - Afghanistan
+  - American Samoa
+  - Angola
+  - Austria
+  - Armenia
+  - Andorra
+  Antarctica:
+  - Anguilla
+  - Alabama
+  - Algeria
+  - Azerbaijan
+  - Argentina
+  - Arizona
+  - Albania
+  - Australia
+  - Arkansas
+  - Aruba
+  - Alaska
+  - Antigua and Barbuda
+  - Afghanistan
+  - American Samoa
+  - Angola
+  - Austria
+  - Armenia
+  - Andorra
+  Antigua and Barbuda:
+  - Anguilla
+  - Alabama
+  - Algeria
+  - Azerbaijan
+  - Argentina
+  - Arizona
+  - Albania
+  - Antarctica
+  - Australia
+  - Arkansas
+  - Aruba
+  - Alaska
+  - Afghanistan
+  - American Samoa
+  - Angola
+  - Austria
+  - Armenia
+  - Andorra
+  Argentina:
+  - Anguilla
+  - Alabama
+  - Algeria
+  - Azerbaijan
+  - Arizona
+  - Albania
+  - Antarctica
+  - Australia
+  - Arkansas
+  - Aruba
+  - Alaska
+  - Antigua and Barbuda
+  - Afghanistan
+  - American Samoa
+  - Angola
+  - Austria
+  - Armenia
+  - Andorra
+  Arizona:
+  - Anguilla
+  - Alabama
+  - Algeria
+  - Azerbaijan
+  - Argentina
+  - Albania
+  - Antarctica
+  - Australia
+  - Arkansas
+  - Aruba
+  - Alaska
+  - Antigua and Barbuda
+  - Afghanistan
+  - American Samoa
+  - Angola
+  - Austria
+  - Armenia
+  - Andorra
+  Arkansas:
+  - Suriname
+  - Saint Kitts and Nevis
+  - Sint Maarten
+  - Somalia
+  - South Africa
+  - Seychelles
+  - Spain
+  - Samoa
+  - Saint Vincent and the Grenadines
+  - South Carolina
+  - Saint Lucia
+  - South Dakota
+  - Syria
+  - Sweden
+  - South Sudan
+  - Solomon Islands
+  - Serbia
+  - Singapore
+  - Slovenia
+  - Sudan
+  - Sri Lanka
+  - San Marino
+  - Sierra Leone
+  - "Saint Barth\xE9lemy"
+  - South Korea
+  - Slovakia
+  - South Georgia
+  - "S\xE3o Tom\xE9 and Pr\xEDncipe"
+  - Saudi Arabia
+  - Saint Martin
+  - Saint Pierre and Miquelon
+  - Saint Helena
+  - Senegal
+  - Switzerland
+  - Svalbard and Jan Mayen
+  Armenia:
+  - Anguilla
+  - Alabama
+  - Algeria
+  - Azerbaijan
+  - Argentina
+  - Arizona
+  - Albania
+  - Antarctica
+  - Australia
+  - Arkansas
+  - Aruba
+  - Alaska
+  - Antigua and Barbuda
+  - Afghanistan
+  - American Samoa
+  - Angola
+  - Austria
+  - Andorra
+  Aruba:
+  - Anguilla
+  - Alabama
+  - Algeria
+  - Azerbaijan
+  - Argentina
+  - Arizona
+  - Albania
+  - Antarctica
+  - Australia
+  - Arkansas
+  - Alaska
+  - Antigua and Barbuda
+  - Afghanistan
+  - American Samoa
+  - Angola
+  - Austria
+  - Armenia
+  - Andorra
+  Australia:
+  - Anguilla
+  - Alabama
+  - Algeria
+  - Azerbaijan
+  - Argentina
+  - Arizona
+  - Albania
+  - Antarctica
+  - Arkansas
+  - Aruba
+  - Alaska
+  - Antigua and Barbuda
+  - Afghanistan
+  - American Samoa
+  - Angola
+  - Austria
+  - Armenia
+  - Andorra
+  Austria:
+  - Anguilla
+  - Alabama
+  - Algeria
+  - Azerbaijan
+  - Argentina
+  - Arizona
+  - Albania
+  - Antarctica
+  - Australia
+  - Arkansas
+  - Aruba
+  - Alaska
+  - Antigua and Barbuda
+  - Afghanistan
+  - American Samoa
+  - Angola
+  - Armenia
+  - Andorra
+  Azerbaijan:
+  - New Jersey
+  - North Korea
+  - New Caledonia
+  - Nicaragua
+  - Niger
+  - North Macedonia
+  - Netherlands
+  - New York
+  - North Dakota
+  - New Zealand
+  - Nepal
+  - Nauru
+  - New Hampshire
+  - Namibia
+  - Nevada
+  - Norfolk Island
+  - New Mexico
+  - Niue
+  - Nebraska
+  - Northern Mariana Islands
+  - North Carolina
+  - Norway
+  - Nigeria
+  Bahamas:
+  - Suriname
+  - Saint Kitts and Nevis
+  - Sint Maarten
+  - Somalia
+  - South Africa
+  - Seychelles
+  - Spain
+  - Samoa
+  - Saint Vincent and the Grenadines
+  - South Carolina
+  - Saint Lucia
+  - South Dakota
+  - Syria
+  - Sweden
+  - South Sudan
+  - Solomon Islands
+  - Serbia
+  - Singapore
+  - Slovenia
+  - Sudan
+  - Sri Lanka
+  - San Marino
+  - Sierra Leone
+  - "Saint Barth\xE9lemy"
+  - South Korea
+  - Slovakia
+  - South Georgia
+  - "S\xE3o Tom\xE9 and Pr\xEDncipe"
+  - Saudi Arabia
+  - Saint Martin
+  - Saint Pierre and Miquelon
+  - Saint Helena
+  - Senegal
+  - Switzerland
+  - Svalbard and Jan Mayen
+  Bahrain:
+  - New Jersey
+  - North Korea
+  - New Caledonia
+  - Nicaragua
+  - Niger
+  - North Macedonia
+  - Netherlands
+  - New York
+  - North Dakota
+  - New Zealand
+  - Nepal
+  - Nauru
+  - New Hampshire
+  - Namibia
+  - Nevada
+  - Norfolk Island
+  - New Mexico
+  - Niue
+  - Nebraska
+  - Northern Mariana Islands
+  - North Carolina
+  - Norway
+  - Nigeria
+  Bangladesh:
+  - Haiti
+  - Heard Island and McDonald Islands
+  - Hong Kong
+  - Honduras
+  - Hawaii
+  - Hungary
+  Barbados:
+  - Suriname
+  - Saint Kitts and Nevis
+  - Sint Maarten
+  - Somalia
+  - South Africa
+  - Seychelles
+  - Spain
+  - Samoa
+  - Saint Vincent and the Grenadines
+  - South Carolina
+  - Saint Lucia
+  - South Dakota
+  - Syria
+  - Sweden
+  - South Sudan
+  - Solomon Islands
+  - Serbia
+  - Singapore
+  - Slovenia
+  - Sudan
+  - Sri Lanka
+  - San Marino
+  - Sierra Leone
+  - "Saint Barth\xE9lemy"
+  - South Korea
+  - Slovakia
+  - South Georgia
+  - "S\xE3o Tom\xE9 and Pr\xEDncipe"
+  - Saudi Arabia
+  - Saint Martin
+  - Saint Pierre and Miquelon
+  - Saint Helena
+  - Senegal
+  - Switzerland
+  - Svalbard and Jan Mayen
+  Belarus:
+  - Suriname
+  - Saint Kitts and Nevis
+  - Sint Maarten
+  - Somalia
+  - South Africa
+  - Seychelles
+  - Spain
+  - Samoa
+  - Saint Vincent and the Grenadines
+  - South Carolina
+  - Saint Lucia
+  - South Dakota
+  - Syria
+  - Sweden
+  - South Sudan
+  - Solomon Islands
+  - Serbia
+  - Singapore
+  - Slovenia
+  - Sudan
+  - Sri Lanka
+  - San Marino
+  - Sierra Leone
+  - "Saint Barth\xE9lemy"
+  - South Korea
+  - Slovakia
+  - South Georgia
+  - "S\xE3o Tom\xE9 and Pr\xEDncipe"
+  - Saudi Arabia
+  - Saint Martin
+  - Saint Pierre and Miquelon
+  - Saint Helena
+  - Senegal
+  - Switzerland
+  - Svalbard and Jan Mayen
+  Belgium:
+  - Myanmar
+  - Malta
+  - Mongolia
+  - Mauritius
+  - Madagascar
+  - Malawi
+  - Maryland
+  - Montserrat
+  - Mayotte
+  - Macau
+  - Maldives
+  - Mauritania
+  - Moldova
+  - Missouri
+  - Massachusetts
+  - Morocco
+  - Mali
+  - Montenegro
+  - Mozambique
+  - Micronesia
+  - Marshall Islands
+  - Maine
+  - Michigan
+  - Minnesota
+  - Monaco
+  - Mexico
+  - Montana
+  - Malaysia
+  - Martinique
+  - Mississippi
+  Belize:
+  - Estonia
+  - Equatorial Guinea
+  - Ecuador
+  - Eritrea
+  - Egypt
+  - Eswatini
+  - Ethiopia
+  - El Salvador
+  Benin:
+  - New Jersey
+  - North Korea
+  - New Caledonia
+  - Nicaragua
+  - Niger
+  - North Macedonia
+  - Netherlands
+  - New York
+  - North Dakota
+  - New Zealand
+  - Nepal
+  - Nauru
+  - New Hampshire
+  - Namibia
+  - Nevada
+  - Norfolk Island
+  - New Mexico
+  - Niue
+  - Nebraska
+  - Northern Mariana Islands
+  - North Carolina
+  - Norway
+  - Nigeria
+  Bermuda:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Bhutan:
+  - New Jersey
+  - North Korea
+  - New Caledonia
+  - Nicaragua
+  - Niger
+  - North Macedonia
+  - Netherlands
+  - New York
+  - North Dakota
+  - New Zealand
+  - Nepal
+  - Nauru
+  - New Hampshire
+  - Namibia
+  - Nevada
+  - Norfolk Island
+  - New Mexico
+  - Niue
+  - Nebraska
+  - Northern Mariana Islands
+  - North Carolina
+  - Norway
+  - Nigeria
+  Bolivia:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Bosnia and Herzegovina:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Botswana:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Bouvet Island:
+  - Dominican Republic
+  - DR Congo
+  - Djibouti
+  - Delaware
+  - District of Columbia
+  - Dominica
+  - Denmark
+  Brazil:
+  - Libya
+  - Laos
+  - Liechtenstein
+  - Liberia
+  - Latvia
+  - Luxembourg
+  - Louisiana
+  - Lebanon
+  - Lesotho
+  - Lithuania
+  British Indian Ocean Territory:
+  - Yemen
+  British Virgin Islands:
+  - Suriname
+  - Saint Kitts and Nevis
+  - Sint Maarten
+  - Somalia
+  - South Africa
+  - Seychelles
+  - Spain
+  - Samoa
+  - Saint Vincent and the Grenadines
+  - South Carolina
+  - Saint Lucia
+  - South Dakota
+  - Syria
+  - Sweden
+  - South Sudan
+  - Solomon Islands
+  - Serbia
+  - Singapore
+  - Slovenia
+  - Sudan
+  - Sri Lanka
+  - San Marino
+  - Sierra Leone
+  - "Saint Barth\xE9lemy"
+  - South Korea
+  - Slovakia
+  - South Georgia
+  - "S\xE3o Tom\xE9 and Pr\xEDncipe"
+  - Saudi Arabia
+  - Saint Martin
+  - Saint Pierre and Miquelon
+  - Saint Helena
+  - Senegal
+  - Switzerland
+  - Svalbard and Jan Mayen
+  Brunei:
+  - Israel
+  - Idaho
+  - Illinois
+  - Iraq
+  - Indiana
+  - Iowa
+  - Italy
+  - Iran
+  - Indonesia
+  - Ivory Coast
+  - India
+  - Ireland
+  - Isle of Man
+  - Iceland
+  Bulgaria:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Burkina Faso:
+  - Oklahoma
+  - Ohio
+  - Oregon
+  - Oman
+  Burundi:
+  - Israel
+  - Idaho
+  - Illinois
+  - Iraq
+  - Indiana
+  - Iowa
+  - Italy
+  - Iran
+  - Indonesia
+  - Ivory Coast
+  - India
+  - Ireland
+  - Isle of Man
+  - Iceland
+  California:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Cambodia:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Cameroon:
+  - New Jersey
+  - North Korea
+  - New Caledonia
+  - Nicaragua
+  - Niger
+  - North Macedonia
+  - Netherlands
+  - New York
+  - North Dakota
+  - New Zealand
+  - Nepal
+  - Nauru
+  - New Hampshire
+  - Namibia
+  - Nevada
+  - Norfolk Island
+  - New Mexico
+  - Niue
+  - Nebraska
+  - Northern Mariana Islands
+  - North Carolina
+  - Norway
+  - Nigeria
+  Canada:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Cape Verde:
+  - Estonia
+  - Equatorial Guinea
+  - Ecuador
+  - Eritrea
+  - Egypt
+  - Eswatini
+  - Ethiopia
+  - El Salvador
+  Caribbean Netherlands:
+  - Suriname
+  - Saint Kitts and Nevis
+  - Sint Maarten
+  - Somalia
+  - South Africa
+  - Seychelles
+  - Spain
+  - Samoa
+  - Saint Vincent and the Grenadines
+  - South Carolina
+  - Saint Lucia
+  - South Dakota
+  - Syria
+  - Sweden
+  - South Sudan
+  - Solomon Islands
+  - Serbia
+  - Singapore
+  - Slovenia
+  - Sudan
+  - Sri Lanka
+  - San Marino
+  - Sierra Leone
+  - "Saint Barth\xE9lemy"
+  - South Korea
+  - Slovakia
+  - South Georgia
+  - "S\xE3o Tom\xE9 and Pr\xEDncipe"
+  - Saudi Arabia
+  - Saint Martin
+  - Saint Pierre and Miquelon
+  - Saint Helena
+  - Senegal
+  - Switzerland
+  - Svalbard and Jan Mayen
+  Cayman Islands:
+  - Suriname
+  - Saint Kitts and Nevis
+  - Sint Maarten
+  - Somalia
+  - South Africa
+  - Seychelles
+  - Spain
+  - Samoa
+  - Saint Vincent and the Grenadines
+  - South Carolina
+  - Saint Lucia
+  - South Dakota
+  - Syria
+  - Sweden
+  - South Sudan
+  - Solomon Islands
+  - Serbia
+  - Singapore
+  - Slovenia
+  - Sudan
+  - Sri Lanka
+  - San Marino
+  - Sierra Leone
+  - "Saint Barth\xE9lemy"
+  - South Korea
+  - Slovakia
+  - South Georgia
+  - "S\xE3o Tom\xE9 and Pr\xEDncipe"
+  - Saudi Arabia
+  - Saint Martin
+  - Saint Pierre and Miquelon
+  - Saint Helena
+  - Senegal
+  - Switzerland
+  - Svalbard and Jan Mayen
+  Central African Republic:
+  - Cape Verde
+  - "Cura\xE7ao"
+  - Chile
+  - Cameroon
+  - China
+  - Christmas Island
+  - Cambodia
+  - Croatia
+  - Chad
+  - Cook Islands
+  - Czechia
+  - Connecticut
+  - Comoros
+  - Cuba
+  - Caribbean Netherlands
+  - Costa Rica
+  - Cocos (Keeling) Islands
+  - Cyprus
+  - Canada
+  - Colombia
+  - Cayman Islands
+  - California
+  - Colorado
+  Chad:
+  - Dominican Republic
+  - DR Congo
+  - Djibouti
+  - Delaware
+  - District of Columbia
+  - Dominica
+  - Denmark
+  Chile:
+  - Estonia
+  - Equatorial Guinea
+  - Ecuador
+  - Eritrea
+  - Egypt
+  - Eswatini
+  - Ethiopia
+  - El Salvador
+  China:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Christmas Island:
+  - Dominican Republic
+  - DR Congo
+  - Djibouti
+  - Delaware
+  - District of Columbia
+  - Dominica
+  - Denmark
+  Cocos (Keeling) Islands:
+  - Suriname
+  - Saint Kitts and Nevis
+  - Sint Maarten
+  - Somalia
+  - South Africa
+  - Seychelles
+  - Spain
+  - Samoa
+  - Saint Vincent and the Grenadines
+  - South Carolina
+  - Saint Lucia
+  - South Dakota
+  - Syria
+  - Sweden
+  - South Sudan
+  - Solomon Islands
+  - Serbia
+  - Singapore
+  - Slovenia
+  - Sudan
+  - Sri Lanka
+  - San Marino
+  - Sierra Leone
+  - "Saint Barth\xE9lemy"
+  - South Korea
+  - Slovakia
+  - South Georgia
+  - "S\xE3o Tom\xE9 and Pr\xEDncipe"
+  - Saudi Arabia
+  - Saint Martin
+  - Saint Pierre and Miquelon
+  - Saint Helena
+  - Senegal
+  - Switzerland
+  - Svalbard and Jan Mayen
+  Colombia:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Colorado:
+  - Oklahoma
+  - Ohio
+  - Oregon
+  - Oman
+  Comoros:
+  - Suriname
+  - Saint Kitts and Nevis
+  - Sint Maarten
+  - Somalia
+  - South Africa
+  - Seychelles
+  - Spain
+  - Samoa
+  - Saint Vincent and the Grenadines
+  - South Carolina
+  - Saint Lucia
+  - South Dakota
+  - Syria
+  - Sweden
+  - South Sudan
+  - Solomon Islands
+  - Serbia
+  - Singapore
+  - Slovenia
+  - Sudan
+  - Sri Lanka
+  - San Marino
+  - Sierra Leone
+  - "Saint Barth\xE9lemy"
+  - South Korea
+  - Slovakia
+  - South Georgia
+  - "S\xE3o Tom\xE9 and Pr\xEDncipe"
+  - Saudi Arabia
+  - Saint Martin
+  - Saint Pierre and Miquelon
+  - Saint Helena
+  - Senegal
+  - Switzerland
+  - Svalbard and Jan Mayen
+  Connecticut:
+  - Tunisia
+  - Trinidad and Tobago
+  - Tokelau
+  - Tuvalu
+  - Tonga
+  - Tanzania
+  - Tajikistan
+  - Texas
+  - Thailand
+  - Taiwan
+  - Turkmenistan
+  - Turkey
+  - Timor-Leste
+  - Tennessee
+  - Turks and Caicos Islands
+  - Togo
+  Cook Islands:
+  - Suriname
+  - Saint Kitts and Nevis
+  - Sint Maarten
+  - Somalia
+  - South Africa
+  - Seychelles
+  - Spain
+  - Samoa
+  - Saint Vincent and the Grenadines
+  - South Carolina
+  - Saint Lucia
+  - South Dakota
+  - Syria
+  - Sweden
+  - South Sudan
+  - Solomon Islands
+  - Serbia
+  - Singapore
+  - Slovenia
+  - Sudan
+  - Sri Lanka
+  - San Marino
+  - Sierra Leone
+  - "Saint Barth\xE9lemy"
+  - South Korea
+  - Slovakia
+  - South Georgia
+  - "S\xE3o Tom\xE9 and Pr\xEDncipe"
+  - Saudi Arabia
+  - Saint Martin
+  - Saint Pierre and Miquelon
+  - Saint Helena
+  - Senegal
+  - Switzerland
+  - Svalbard and Jan Mayen
+  Costa Rica:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Croatia:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Cuba:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  "Cura\xE7ao":
+  - Oklahoma
+  - Ohio
+  - Oregon
+  - Oman
+  Cyprus:
+  - Suriname
+  - Saint Kitts and Nevis
+  - Sint Maarten
+  - Somalia
+  - South Africa
+  - Seychelles
+  - Spain
+  - Samoa
+  - Saint Vincent and the Grenadines
+  - South Carolina
+  - Saint Lucia
+  - South Dakota
+  - Syria
+  - Sweden
+  - South Sudan
+  - Solomon Islands
+  - Serbia
+  - Singapore
+  - Slovenia
+  - Sudan
+  - Sri Lanka
+  - San Marino
+  - Sierra Leone
+  - "Saint Barth\xE9lemy"
+  - South Korea
+  - Slovakia
+  - South Georgia
+  - "S\xE3o Tom\xE9 and Pr\xEDncipe"
+  - Saudi Arabia
+  - Saint Martin
+  - Saint Pierre and Miquelon
+  - Saint Helena
+  - Senegal
+  - Switzerland
+  - Svalbard and Jan Mayen
+  Czechia:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  DR Congo:
+  - Oklahoma
+  - Ohio
+  - Oregon
+  - Oman
+  Delaware:
+  - Estonia
+  - Equatorial Guinea
+  - Ecuador
+  - Eritrea
+  - Egypt
+  - Eswatini
+  - Ethiopia
+  - El Salvador
+  Denmark:
+  - Kuwait
+  - Kentucky
+  - Kyrgyzstan
+  - Kazakhstan
+  - Kenya
+  - Kiribati
+  - Kansas
+  - Kosovo
+  District of Columbia:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Djibouti:
+  - Israel
+  - Idaho
+  - Illinois
+  - Iraq
+  - Indiana
+  - Iowa
+  - Italy
+  - Iran
+  - Indonesia
+  - Ivory Coast
+  - India
+  - Ireland
+  - Isle of Man
+  - Iceland
+  Dominica:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Dominican Republic:
+  - Central African Republic
+  - Cape Verde
+  - "Cura\xE7ao"
+  - Chile
+  - Cameroon
+  - China
+  - Christmas Island
+  - Cambodia
+  - Croatia
+  - Chad
+  - Cook Islands
+  - Czechia
+  - Connecticut
+  - Comoros
+  - Cuba
+  - Caribbean Netherlands
+  - Costa Rica
+  - Cocos (Keeling) Islands
+  - Cyprus
+  - Canada
+  - Colombia
+  - Cayman Islands
+  - California
+  - Colorado
+  Ecuador:
+  - Republic of the Congo
+  - Rhode Island
+  - "R\xE9union"
+  - Russia
+  - Rwanda
+  - Romania
+  Egypt:
+  - Tunisia
+  - Trinidad and Tobago
+  - Tokelau
+  - Tuvalu
+  - Tonga
+  - Tanzania
+  - Tajikistan
+  - Texas
+  - Thailand
+  - Taiwan
+  - Turkmenistan
+  - Turkey
+  - Timor-Leste
+  - Tennessee
+  - Turks and Caicos Islands
+  - Togo
+  El Salvador:
+  - Republic of the Congo
+  - Rhode Island
+  - "R\xE9union"
+  - Russia
+  - Rwanda
+  - Romania
+  Equatorial Guinea:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Eritrea:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Estonia:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Eswatini:
+  - Israel
+  - Idaho
+  - Illinois
+  - Iraq
+  - Indiana
+  - Iowa
+  - Italy
+  - Iran
+  - Indonesia
+  - Ivory Coast
+  - India
+  - Ireland
+  - Isle of Man
+  - Iceland
+  Ethiopia:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Falkland Islands:
+  - Suriname
+  - Saint Kitts and Nevis
+  - Sint Maarten
+  - Somalia
+  - South Africa
+  - Seychelles
+  - Spain
+  - Samoa
+  - Saint Vincent and the Grenadines
+  - South Carolina
+  - Saint Lucia
+  - South Dakota
+  - Syria
+  - Sweden
+  - South Sudan
+  - Solomon Islands
+  - Serbia
+  - Singapore
+  - Slovenia
+  - Sudan
+  - Sri Lanka
+  - San Marino
+  - Sierra Leone
+  - "Saint Barth\xE9lemy"
+  - South Korea
+  - Slovakia
+  - South Georgia
+  - "S\xE3o Tom\xE9 and Pr\xEDncipe"
+  - Saudi Arabia
+  - Saint Martin
+  - Saint Pierre and Miquelon
+  - Saint Helena
+  - Senegal
+  - Switzerland
+  - Svalbard and Jan Mayen
+  Faroe Islands:
+  - Suriname
+  - Saint Kitts and Nevis
+  - Sint Maarten
+  - Somalia
+  - South Africa
+  - Seychelles
+  - Spain
+  - Samoa
+  - Saint Vincent and the Grenadines
+  - South Carolina
+  - Saint Lucia
+  - South Dakota
+  - Syria
+  - Sweden
+  - South Sudan
+  - Solomon Islands
+  - Serbia
+  - Singapore
+  - Slovenia
+  - Sudan
+  - Sri Lanka
+  - San Marino
+  - Sierra Leone
+  - "Saint Barth\xE9lemy"
+  - South Korea
+  - Slovakia
+  - South Georgia
+  - "S\xE3o Tom\xE9 and Pr\xEDncipe"
+  - Saudi Arabia
+  - Saint Martin
+  - Saint Pierre and Miquelon
+  - Saint Helena
+  - Senegal
+  - Switzerland
+  - Svalbard and Jan Mayen
+  Fiji:
+  - Israel
+  - Idaho
+  - Illinois
+  - Iraq
+  - Indiana
+  - Iowa
+  - Italy
+  - Iran
+  - Indonesia
+  - Ivory Coast
+  - India
+  - Ireland
+  - Isle of Man
+  - Iceland
+  Finland:
+  - Dominican Republic
+  - DR Congo
+  - Djibouti
+  - Delaware
+  - District of Columbia
+  - Dominica
+  - Denmark
+  Florida:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  France:
+  - Estonia
+  - Equatorial Guinea
+  - Ecuador
+  - Eritrea
+  - Egypt
+  - Eswatini
+  - Ethiopia
+  - El Salvador
+  French Guiana:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  French Polynesia:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  French Southern and Antarctic Lands:
+  - Suriname
+  - Saint Kitts and Nevis
+  - Sint Maarten
+  - Somalia
+  - South Africa
+  - Seychelles
+  - Spain
+  - Samoa
+  - Saint Vincent and the Grenadines
+  - South Carolina
+  - Saint Lucia
+  - South Dakota
+  - Syria
+  - Sweden
+  - South Sudan
+  - Solomon Islands
+  - Serbia
+  - Singapore
+  - Slovenia
+  - Sudan
+  - Sri Lanka
+  - San Marino
+  - Sierra Leone
+  - "Saint Barth\xE9lemy"
+  - South Korea
+  - Slovakia
+  - South Georgia
+  - "S\xE3o Tom\xE9 and Pr\xEDncipe"
+  - Saudi Arabia
+  - Saint Martin
+  - Saint Pierre and Miquelon
+  - Saint Helena
+  - Senegal
+  - Switzerland
+  - Svalbard and Jan Mayen
+  Gabon:
+  - New Jersey
+  - North Korea
+  - New Caledonia
+  - Nicaragua
+  - Niger
+  - North Macedonia
+  - Netherlands
+  - New York
+  - North Dakota
+  - New Zealand
+  - Nepal
+  - Nauru
+  - New Hampshire
+  - Namibia
+  - Nevada
+  - Norfolk Island
+  - New Mexico
+  - Niue
+  - Nebraska
+  - Northern Mariana Islands
+  - North Carolina
+  - Norway
+  - Nigeria
+  Gambia:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Georgia:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Germany:
+  - Yemen
+  Ghana:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Gibraltar:
+  - Republic of the Congo
+  - Rhode Island
+  - "R\xE9union"
+  - Russia
+  - Rwanda
+  - Romania
+  Greece:
+  - Estonia
+  - Equatorial Guinea
+  - Ecuador
+  - Eritrea
+  - Egypt
+  - Eswatini
+  - Ethiopia
+  - El Salvador
+  Greenland:
+  - Dominican Republic
+  - DR Congo
+  - Djibouti
+  - Delaware
+  - District of Columbia
+  - Dominica
+  - Denmark
+  Grenada:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Guadeloupe:
+  - Estonia
+  - Equatorial Guinea
+  - Ecuador
+  - Eritrea
+  - Egypt
+  - Eswatini
+  - Ethiopia
+  - El Salvador
+  Guam:
+  - Myanmar
+  - Malta
+  - Mongolia
+  - Mauritius
+  - Madagascar
+  - Malawi
+  - Maryland
+  - Montserrat
+  - Mayotte
+  - Macau
+  - Maldives
+  - Mauritania
+  - Moldova
+  - Missouri
+  - Massachusetts
+  - Morocco
+  - Mali
+  - Montenegro
+  - Mozambique
+  - Micronesia
+  - Marshall Islands
+  - Maine
+  - Michigan
+  - Minnesota
+  - Monaco
+  - Mexico
+  - Montana
+  - Malaysia
+  - Martinique
+  - Mississippi
+  Guatemala:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Guernsey:
+  - Yemen
+  Guinea:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Guinea-Bissau:
+  - United Arab Emirates
+  - Uganda
+  - Utah
+  - United Kingdom
+  - Uruguay
+  - United States
+  - Ukraine
+  - United States Minor Outlying Islands
+  - Uzbekistan
+  - United States Virgin Islands
+  Guyana:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Haiti:
+  - Israel
+  - Idaho
+  - Illinois
+  - Iraq
+  - Indiana
+  - Iowa
+  - Italy
+  - Iran
+  - Indonesia
+  - Ivory Coast
+  - India
+  - Ireland
+  - Isle of Man
+  - Iceland
+  Hawaii:
+  - Israel
+  - Idaho
+  - Illinois
+  - Iraq
+  - Indiana
+  - Iowa
+  - Italy
+  - Iran
+  - Indonesia
+  - Ivory Coast
+  - India
+  - Ireland
+  - Isle of Man
+  - Iceland
+  Heard Island and McDonald Islands:
+  - Suriname
+  - Saint Kitts and Nevis
+  - Sint Maarten
+  - Somalia
+  - South Africa
+  - Seychelles
+  - Spain
+  - Samoa
+  - Saint Vincent and the Grenadines
+  - South Carolina
+  - Saint Lucia
+  - South Dakota
+  - Syria
+  - Sweden
+  - South Sudan
+  - Solomon Islands
+  - Serbia
+  - Singapore
+  - Slovenia
+  - Sudan
+  - Sri Lanka
+  - San Marino
+  - Sierra Leone
+  - "Saint Barth\xE9lemy"
+  - South Korea
+  - Slovakia
+  - South Georgia
+  - "S\xE3o Tom\xE9 and Pr\xEDncipe"
+  - Saudi Arabia
+  - Saint Martin
+  - Saint Pierre and Miquelon
+  - Saint Helena
+  - Senegal
+  - Switzerland
+  - Svalbard and Jan Mayen
+  Honduras:
+  - Suriname
+  - Saint Kitts and Nevis
+  - Sint Maarten
+  - Somalia
+  - South Africa
+  - Seychelles
+  - Spain
+  - Samoa
+  - Saint Vincent and the Grenadines
+  - South Carolina
+  - Saint Lucia
+  - South Dakota
+  - Syria
+  - Sweden
+  - South Sudan
+  - Solomon Islands
+  - Serbia
+  - Singapore
+  - Slovenia
+  - Sudan
+  - Sri Lanka
+  - San Marino
+  - Sierra Leone
+  - "Saint Barth\xE9lemy"
+  - South Korea
+  - Slovakia
+  - South Georgia
+  - "S\xE3o Tom\xE9 and Pr\xEDncipe"
+  - Saudi Arabia
+  - Saint Martin
+  - Saint Pierre and Miquelon
+  - Saint Helena
+  - Senegal
+  - Switzerland
+  - Svalbard and Jan Mayen
+  Hong Kong:
+  - Ghana
+  - Gibraltar
+  - Guatemala
+  - Guinea-Bissau
+  - Guyana
+  - Guernsey
+  - Germany
+  - Greenland
+  - Guadeloupe
+  - Greece
+  - Grenada
+  - Georgia
+  - Gambia
+  - Gabon
+  - Guinea
+  - Guam
+  Hungary:
+  - Yemen
+  Iceland:
+  - Dominican Republic
+  - DR Congo
+  - Djibouti
+  - Delaware
+  - District of Columbia
+  - Dominica
+  - Denmark
+  Idaho:
+  - Oklahoma
+  - Ohio
+  - Oregon
+  - Oman
+  Illinois:
+  - Suriname
+  - Saint Kitts and Nevis
+  - Sint Maarten
+  - Somalia
+  - South Africa
+  - Seychelles
+  - Spain
+  - Samoa
+  - Saint Vincent and the Grenadines
+  - South Carolina
+  - Saint Lucia
+  - South Dakota
+  - Syria
+  - Sweden
+  - South Sudan
+  - Solomon Islands
+  - Serbia
+  - Singapore
+  - Slovenia
+  - Sudan
+  - Sri Lanka
+  - San Marino
+  - Sierra Leone
+  - "Saint Barth\xE9lemy"
+  - South Korea
+  - Slovakia
+  - South Georgia
+  - "S\xE3o Tom\xE9 and Pr\xEDncipe"
+  - Saudi Arabia
+  - Saint Martin
+  - Saint Pierre and Miquelon
+  - Saint Helena
+  - Senegal
+  - Switzerland
+  - Svalbard and Jan Mayen
+  India:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Indiana:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Indonesia:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Iowa:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Iran:
+  - New Jersey
+  - North Korea
+  - New Caledonia
+  - Nicaragua
+  - Niger
+  - North Macedonia
+  - Netherlands
+  - New York
+  - North Dakota
+  - New Zealand
+  - Nepal
+  - Nauru
+  - New Hampshire
+  - Namibia
+  - Nevada
+  - Norfolk Island
+  - New Mexico
+  - Niue
+  - Nebraska
+  - Northern Mariana Islands
+  - North Carolina
+  - Norway
+  - Nigeria
+  Iraq:
+  - Qatar
+  Ireland:
+  - Dominican Republic
+  - DR Congo
+  - Djibouti
+  - Delaware
+  - District of Columbia
+  - Dominica
+  - Denmark
+  Isle of Man:
+  - New Jersey
+  - North Korea
+  - New Caledonia
+  - Nicaragua
+  - Niger
+  - North Macedonia
+  - Netherlands
+  - New York
+  - North Dakota
+  - New Zealand
+  - Nepal
+  - Nauru
+  - New Hampshire
+  - Namibia
+  - Nevada
+  - Norfolk Island
+  - New Mexico
+  - Niue
+  - Nebraska
+  - Northern Mariana Islands
+  - North Carolina
+  - Norway
+  - Nigeria
+  Israel:
+  - Libya
+  - Laos
+  - Liechtenstein
+  - Liberia
+  - Latvia
+  - Luxembourg
+  - Louisiana
+  - Lebanon
+  - Lesotho
+  - Lithuania
+  Italy:
+  - Yemen
+  Ivory Coast:
+  - Tunisia
+  - Trinidad and Tobago
+  - Tokelau
+  - Tuvalu
+  - Tonga
+  - Tanzania
+  - Tajikistan
+  - Texas
+  - Thailand
+  - Taiwan
+  - Turkmenistan
+  - Turkey
+  - Timor-Leste
+  - Tennessee
+  - Turks and Caicos Islands
+  - Togo
+  Jamaica:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Japan:
+  - New Jersey
+  - North Korea
+  - New Caledonia
+  - Nicaragua
+  - Niger
+  - North Macedonia
+  - Netherlands
+  - New York
+  - North Dakota
+  - New Zealand
+  - Nepal
+  - Nauru
+  - New Hampshire
+  - Namibia
+  - Nevada
+  - Norfolk Island
+  - New Mexico
+  - Niue
+  - Nebraska
+  - Northern Mariana Islands
+  - North Carolina
+  - Norway
+  - Nigeria
+  Jersey:
+  - Yemen
+  Jordan:
+  - New Jersey
+  - North Korea
+  - New Caledonia
+  - Nicaragua
+  - Niger
+  - North Macedonia
+  - Netherlands
+  - New York
+  - North Dakota
+  - New Zealand
+  - Nepal
+  - Nauru
+  - New Hampshire
+  - Namibia
+  - Nevada
+  - Norfolk Island
+  - New Mexico
+  - Niue
+  - Nebraska
+  - Northern Mariana Islands
+  - North Carolina
+  - Norway
+  - Nigeria
+  Kansas:
+  - Suriname
+  - Saint Kitts and Nevis
+  - Sint Maarten
+  - Somalia
+  - South Africa
+  - Seychelles
+  - Spain
+  - Samoa
+  - Saint Vincent and the Grenadines
+  - South Carolina
+  - Saint Lucia
+  - South Dakota
+  - Syria
+  - Sweden
+  - South Sudan
+  - Solomon Islands
+  - Serbia
+  - Singapore
+  - Slovenia
+  - Sudan
+  - Sri Lanka
+  - San Marino
+  - Sierra Leone
+  - "Saint Barth\xE9lemy"
+  - South Korea
+  - Slovakia
+  - South Georgia
+  - "S\xE3o Tom\xE9 and Pr\xEDncipe"
+  - Saudi Arabia
+  - Saint Martin
+  - Saint Pierre and Miquelon
+  - Saint Helena
+  - Senegal
+  - Switzerland
+  - Svalbard and Jan Mayen
+  Kazakhstan:
+  - New Jersey
+  - North Korea
+  - New Caledonia
+  - Nicaragua
+  - Niger
+  - North Macedonia
+  - Netherlands
+  - New York
+  - North Dakota
+  - New Zealand
+  - Nepal
+  - Nauru
+  - New Hampshire
+  - Namibia
+  - Nevada
+  - Norfolk Island
+  - New Mexico
+  - Niue
+  - Nebraska
+  - Northern Mariana Islands
+  - North Carolina
+  - Norway
+  - Nigeria
+  Kentucky:
+  - Yemen
+  Kenya:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Kiribati:
+  - Israel
+  - Idaho
+  - Illinois
+  - Iraq
+  - Indiana
+  - Iowa
+  - Italy
+  - Iran
+  - Indonesia
+  - Ivory Coast
+  - India
+  - Ireland
+  - Isle of Man
+  - Iceland
+  Kosovo:
+  - Oklahoma
+  - Ohio
+  - Oregon
+  - Oman
+  Kuwait:
+  - Tunisia
+  - Trinidad and Tobago
+  - Tokelau
+  - Tuvalu
+  - Tonga
+  - Tanzania
+  - Tajikistan
+  - Texas
+  - Thailand
+  - Taiwan
+  - Turkmenistan
+  - Turkey
+  - Timor-Leste
+  - Tennessee
+  - Turks and Caicos Islands
+  - Togo
+  Kyrgyzstan:
+  - New Jersey
+  - North Korea
+  - New Caledonia
+  - Nicaragua
+  - Niger
+  - North Macedonia
+  - Netherlands
+  - New York
+  - North Dakota
+  - New Zealand
+  - Nepal
+  - Nauru
+  - New Hampshire
+  - Namibia
+  - Nevada
+  - Norfolk Island
+  - New Mexico
+  - Niue
+  - Nebraska
+  - Northern Mariana Islands
+  - North Carolina
+  - Norway
+  - Nigeria
+  Laos:
+  - Suriname
+  - Saint Kitts and Nevis
+  - Sint Maarten
+  - Somalia
+  - South Africa
+  - Seychelles
+  - Spain
+  - Samoa
+  - Saint Vincent and the Grenadines
+  - South Carolina
+  - Saint Lucia
+  - South Dakota
+  - Syria
+  - Sweden
+  - South Sudan
+  - Solomon Islands
+  - Serbia
+  - Singapore
+  - Slovenia
+  - Sudan
+  - Sri Lanka
+  - San Marino
+  - Sierra Leone
+  - "Saint Barth\xE9lemy"
+  - South Korea
+  - Slovakia
+  - South Georgia
+  - "S\xE3o Tom\xE9 and Pr\xEDncipe"
+  - Saudi Arabia
+  - Saint Martin
+  - Saint Pierre and Miquelon
+  - Saint Helena
+  - Senegal
+  - Switzerland
+  - Svalbard and Jan Mayen
+  Latvia:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Lebanon:
+  - New Jersey
+  - North Korea
+  - New Caledonia
+  - Nicaragua
+  - Niger
+  - North Macedonia
+  - Netherlands
+  - New York
+  - North Dakota
+  - New Zealand
+  - Nepal
+  - Nauru
+  - New Hampshire
+  - Namibia
+  - Nevada
+  - Norfolk Island
+  - New Mexico
+  - Niue
+  - Nebraska
+  - Northern Mariana Islands
+  - North Carolina
+  - Norway
+  - Nigeria
+  Lesotho:
+  - Oklahoma
+  - Ohio
+  - Oregon
+  - Oman
+  Liberia:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Libya:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Liechtenstein:
+  - New Jersey
+  - North Korea
+  - New Caledonia
+  - Nicaragua
+  - Niger
+  - North Macedonia
+  - Netherlands
+  - New York
+  - North Dakota
+  - New Zealand
+  - Nepal
+  - Nauru
+  - New Hampshire
+  - Namibia
+  - Nevada
+  - Norfolk Island
+  - New Mexico
+  - Niue
+  - Nebraska
+  - Northern Mariana Islands
+  - North Carolina
+  - Norway
+  - Nigeria
+  Lithuania:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Louisiana:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Luxembourg:
+  - Ghana
+  - Gibraltar
+  - Guatemala
+  - Guinea-Bissau
+  - Guyana
+  - Guernsey
+  - Germany
+  - Greenland
+  - Guadeloupe
+  - Greece
+  - Grenada
+  - Georgia
+  - Gambia
+  - Gabon
+  - Guinea
+  - Guam
+  Macau:
+  - United Arab Emirates
+  - Uganda
+  - Utah
+  - United Kingdom
+  - Uruguay
+  - United States
+  - Ukraine
+  - United States Minor Outlying Islands
+  - Uzbekistan
+  - United States Virgin Islands
+  Madagascar:
+  - Republic of the Congo
+  - Rhode Island
+  - "R\xE9union"
+  - Russia
+  - Rwanda
+  - Romania
+  Maine:
+  - Estonia
+  - Equatorial Guinea
+  - Ecuador
+  - Eritrea
+  - Egypt
+  - Eswatini
+  - Ethiopia
+  - El Salvador
+  Malawi:
+  - Israel
+  - Idaho
+  - Illinois
+  - Iraq
+  - Indiana
+  - Iowa
+  - Italy
+  - Iran
+  - Indonesia
+  - Ivory Coast
+  - India
+  - Ireland
+  - Isle of Man
+  - Iceland
+  Malaysia:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Maldives:
+  - Suriname
+  - Saint Kitts and Nevis
+  - Sint Maarten
+  - Somalia
+  - South Africa
+  - Seychelles
+  - Spain
+  - Samoa
+  - Saint Vincent and the Grenadines
+  - South Carolina
+  - Saint Lucia
+  - South Dakota
+  - Syria
+  - Sweden
+  - South Sudan
+  - Solomon Islands
+  - Serbia
+  - Singapore
+  - Slovenia
+  - Sudan
+  - Sri Lanka
+  - San Marino
+  - Sierra Leone
+  - "Saint Barth\xE9lemy"
+  - South Korea
+  - Slovakia
+  - South Georgia
+  - "S\xE3o Tom\xE9 and Pr\xEDncipe"
+  - Saudi Arabia
+  - Saint Martin
+  - Saint Pierre and Miquelon
+  - Saint Helena
+  - Senegal
+  - Switzerland
+  - Svalbard and Jan Mayen
+  Mali:
+  - Israel
+  - Idaho
+  - Illinois
+  - Iraq
+  - Indiana
+  - Iowa
+  - Italy
+  - Iran
+  - Indonesia
+  - Ivory Coast
+  - India
+  - Ireland
+  - Isle of Man
+  - Iceland
+  Malta:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Marshall Islands:
+  - Suriname
+  - Saint Kitts and Nevis
+  - Sint Maarten
+  - Somalia
+  - South Africa
+  - Seychelles
+  - Spain
+  - Samoa
+  - Saint Vincent and the Grenadines
+  - South Carolina
+  - Saint Lucia
+  - South Dakota
+  - Syria
+  - Sweden
+  - South Sudan
+  - Solomon Islands
+  - Serbia
+  - Singapore
+  - Slovenia
+  - Sudan
+  - Sri Lanka
+  - San Marino
+  - Sierra Leone
+  - "Saint Barth\xE9lemy"
+  - South Korea
+  - Slovakia
+  - South Georgia
+  - "S\xE3o Tom\xE9 and Pr\xEDncipe"
+  - Saudi Arabia
+  - Saint Martin
+  - Saint Pierre and Miquelon
+  - Saint Helena
+  - Senegal
+  - Switzerland
+  - Svalbard and Jan Mayen
+  Martinique:
+  - Estonia
+  - Equatorial Guinea
+  - Ecuador
+  - Eritrea
+  - Egypt
+  - Eswatini
+  - Ethiopia
+  - El Salvador
+  Maryland:
+  - Dominican Republic
+  - DR Congo
+  - Djibouti
+  - Delaware
+  - District of Columbia
+  - Dominica
+  - Denmark
+  Massachusetts:
+  - Suriname
+  - Saint Kitts and Nevis
+  - Sint Maarten
+  - Somalia
+  - South Africa
+  - Seychelles
+  - Spain
+  - Samoa
+  - Saint Vincent and the Grenadines
+  - South Carolina
+  - Saint Lucia
+  - South Dakota
+  - Syria
+  - Sweden
+  - South Sudan
+  - Solomon Islands
+  - Serbia
+  - Singapore
+  - Slovenia
+  - Sudan
+  - Sri Lanka
+  - San Marino
+  - Sierra Leone
+  - "Saint Barth\xE9lemy"
+  - South Korea
+  - Slovakia
+  - South Georgia
+  - "S\xE3o Tom\xE9 and Pr\xEDncipe"
+  - Saudi Arabia
+  - Saint Martin
+  - Saint Pierre and Miquelon
+  - Saint Helena
+  - Senegal
+  - Switzerland
+  - Svalbard and Jan Mayen
+  Mauritania:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Mauritius:
+  - Suriname
+  - Saint Kitts and Nevis
+  - Sint Maarten
+  - Somalia
+  - South Africa
+  - Seychelles
+  - Spain
+  - Samoa
+  - Saint Vincent and the Grenadines
+  - South Carolina
+  - Saint Lucia
+  - South Dakota
+  - Syria
+  - Sweden
+  - South Sudan
+  - Solomon Islands
+  - Serbia
+  - Singapore
+  - Slovenia
+  - Sudan
+  - Sri Lanka
+  - San Marino
+  - Sierra Leone
+  - "Saint Barth\xE9lemy"
+  - South Korea
+  - Slovakia
+  - South Georgia
+  - "S\xE3o Tom\xE9 and Pr\xEDncipe"
+  - Saudi Arabia
+  - Saint Martin
+  - Saint Pierre and Miquelon
+  - Saint Helena
+  - Senegal
+  - Switzerland
+  - Svalbard and Jan Mayen
+  Mayotte:
+  - Estonia
+  - Equatorial Guinea
+  - Ecuador
+  - Eritrea
+  - Egypt
+  - Eswatini
+  - Ethiopia
+  - El Salvador
+  Mexico:
+  - Oklahoma
+  - Ohio
+  - Oregon
+  - Oman
+  Michigan:
+  - New Jersey
+  - North Korea
+  - New Caledonia
+  - Nicaragua
+  - Niger
+  - North Macedonia
+  - Netherlands
+  - New York
+  - North Dakota
+  - New Zealand
+  - Nepal
+  - Nauru
+  - New Hampshire
+  - Namibia
+  - Nevada
+  - Norfolk Island
+  - New Mexico
+  - Niue
+  - Nebraska
+  - Northern Mariana Islands
+  - North Carolina
+  - Norway
+  - Nigeria
+  Micronesia:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Minnesota:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Mississippi:
+  - Israel
+  - Idaho
+  - Illinois
+  - Iraq
+  - Indiana
+  - Iowa
+  - Italy
+  - Iran
+  - Indonesia
+  - Ivory Coast
+  - India
+  - Ireland
+  - Isle of Man
+  - Iceland
+  Missouri:
+  - Israel
+  - Idaho
+  - Illinois
+  - Iraq
+  - Indiana
+  - Iowa
+  - Italy
+  - Iran
+  - Indonesia
+  - Ivory Coast
+  - India
+  - Ireland
+  - Isle of Man
+  - Iceland
+  Moldova:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Monaco:
+  - Oklahoma
+  - Ohio
+  - Oregon
+  - Oman
+  Mongolia:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Montana:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Montenegro:
+  - Oklahoma
+  - Ohio
+  - Oregon
+  - Oman
+  Montserrat:
+  - Tunisia
+  - Trinidad and Tobago
+  - Tokelau
+  - Tuvalu
+  - Tonga
+  - Tanzania
+  - Tajikistan
+  - Texas
+  - Thailand
+  - Taiwan
+  - Turkmenistan
+  - Turkey
+  - Timor-Leste
+  - Tennessee
+  - Turks and Caicos Islands
+  - Togo
+  Morocco:
+  - Oklahoma
+  - Ohio
+  - Oregon
+  - Oman
+  Mozambique:
+  - Estonia
+  - Equatorial Guinea
+  - Ecuador
+  - Eritrea
+  - Egypt
+  - Eswatini
+  - Ethiopia
+  - El Salvador
+  Myanmar:
+  - Republic of the Congo
+  - Rhode Island
+  - "R\xE9union"
+  - Russia
+  - Rwanda
+  - Romania
+  Namibia:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Nauru:
+  - United Arab Emirates
+  - Uganda
+  - Utah
+  - United Kingdom
+  - Uruguay
+  - United States
+  - Ukraine
+  - United States Minor Outlying Islands
+  - Uzbekistan
+  - United States Virgin Islands
+  Nebraska:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Nepal:
+  - Libya
+  - Laos
+  - Liechtenstein
+  - Liberia
+  - Latvia
+  - Luxembourg
+  - Louisiana
+  - Lebanon
+  - Lesotho
+  - Lithuania
+  Netherlands:
+  - Suriname
+  - Saint Kitts and Nevis
+  - Sint Maarten
+  - Somalia
+  - South Africa
+  - Seychelles
+  - Spain
+  - Samoa
+  - Saint Vincent and the Grenadines
+  - South Carolina
+  - Saint Lucia
+  - South Dakota
+  - Syria
+  - Sweden
+  - South Sudan
+  - Solomon Islands
+  - Serbia
+  - Singapore
+  - Slovenia
+  - Sudan
+  - Sri Lanka
+  - San Marino
+  - Sierra Leone
+  - "Saint Barth\xE9lemy"
+  - South Korea
+  - Slovakia
+  - South Georgia
+  - "S\xE3o Tom\xE9 and Pr\xEDncipe"
+  - Saudi Arabia
+  - Saint Martin
+  - Saint Pierre and Miquelon
+  - Saint Helena
+  - Senegal
+  - Switzerland
+  - Svalbard and Jan Mayen
+  Nevada:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  New Caledonia:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  New Hampshire:
+  - Estonia
+  - Equatorial Guinea
+  - Ecuador
+  - Eritrea
+  - Egypt
+  - Eswatini
+  - Ethiopia
+  - El Salvador
+  New Jersey:
+  - Yemen
+  New Mexico:
+  - Oklahoma
+  - Ohio
+  - Oregon
+  - Oman
+  New York:
+  - Kuwait
+  - Kentucky
+  - Kyrgyzstan
+  - Kazakhstan
+  - Kenya
+  - Kiribati
+  - Kansas
+  - Kosovo
+  New Zealand:
+  - Dominican Republic
+  - DR Congo
+  - Djibouti
+  - Delaware
+  - District of Columbia
+  - Dominica
+  - Denmark
+  Nicaragua:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Niger:
+  - Republic of the Congo
+  - Rhode Island
+  - "R\xE9union"
+  - Russia
+  - Rwanda
+  - Romania
+  Nigeria:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Niue:
+  - Estonia
+  - Equatorial Guinea
+  - Ecuador
+  - Eritrea
+  - Egypt
+  - Eswatini
+  - Ethiopia
+  - El Salvador
+  Norfolk Island:
+  - Dominican Republic
+  - DR Congo
+  - Djibouti
+  - Delaware
+  - District of Columbia
+  - Dominica
+  - Denmark
+  North Carolina:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  North Dakota:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  North Korea:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  North Macedonia:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Northern Mariana Islands:
+  - Suriname
+  - Saint Kitts and Nevis
+  - Sint Maarten
+  - Somalia
+  - South Africa
+  - Seychelles
+  - Spain
+  - Samoa
+  - Saint Vincent and the Grenadines
+  - South Carolina
+  - Saint Lucia
+  - South Dakota
+  - Syria
+  - Sweden
+  - South Sudan
+  - Solomon Islands
+  - Serbia
+  - Singapore
+  - Slovenia
+  - Sudan
+  - Sri Lanka
+  - San Marino
+  - Sierra Leone
+  - "Saint Barth\xE9lemy"
+  - South Korea
+  - Slovakia
+  - South Georgia
+  - "S\xE3o Tom\xE9 and Pr\xEDncipe"
+  - Saudi Arabia
+  - Saint Martin
+  - Saint Pierre and Miquelon
+  - Saint Helena
+  - Senegal
+  - Switzerland
+  - Svalbard and Jan Mayen
+  Norway:
+  - Yemen
+  Ohio:
+  - Oklahoma
+  - Oregon
+  - Oman
+  Oklahoma:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Oman:
+  - New Jersey
+  - North Korea
+  - New Caledonia
+  - Nicaragua
+  - Niger
+  - North Macedonia
+  - Netherlands
+  - New York
+  - North Dakota
+  - New Zealand
+  - Nepal
+  - Nauru
+  - New Hampshire
+  - Namibia
+  - Nevada
+  - Norfolk Island
+  - New Mexico
+  - Niue
+  - Nebraska
+  - Northern Mariana Islands
+  - North Carolina
+  - Norway
+  - Nigeria
+  Oregon:
+  - New Jersey
+  - North Korea
+  - New Caledonia
+  - Nicaragua
+  - Niger
+  - North Macedonia
+  - Netherlands
+  - New York
+  - North Dakota
+  - New Zealand
+  - Nepal
+  - Nauru
+  - New Hampshire
+  - Namibia
+  - Nevada
+  - Norfolk Island
+  - New Mexico
+  - Niue
+  - Nebraska
+  - Northern Mariana Islands
+  - North Carolina
+  - Norway
+  - Nigeria
+  Pakistan:
+  - New Jersey
+  - North Korea
+  - New Caledonia
+  - Nicaragua
+  - Niger
+  - North Macedonia
+  - Netherlands
+  - New York
+  - North Dakota
+  - New Zealand
+  - Nepal
+  - Nauru
+  - New Hampshire
+  - Namibia
+  - Nevada
+  - Norfolk Island
+  - New Mexico
+  - Niue
+  - Nebraska
+  - Northern Mariana Islands
+  - North Carolina
+  - Norway
+  - Nigeria
+  Palau:
+  - United Arab Emirates
+  - Uganda
+  - Utah
+  - United Kingdom
+  - Uruguay
+  - United States
+  - Ukraine
+  - United States Minor Outlying Islands
+  - Uzbekistan
+  - United States Virgin Islands
+  Palestine:
+  - Estonia
+  - Equatorial Guinea
+  - Ecuador
+  - Eritrea
+  - Egypt
+  - Eswatini
+  - Ethiopia
+  - El Salvador
+  Panama:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Papua New Guinea:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Paraguay:
+  - Yemen
+  Pennsylvania:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Peru:
+  - United Arab Emirates
+  - Uganda
+  - Utah
+  - United Kingdom
+  - Uruguay
+  - United States
+  - Ukraine
+  - United States Minor Outlying Islands
+  - Uzbekistan
+  - United States Virgin Islands
+  Philippines:
+  - Suriname
+  - Saint Kitts and Nevis
+  - Sint Maarten
+  - Somalia
+  - South Africa
+  - Seychelles
+  - Spain
+  - Samoa
+  - Saint Vincent and the Grenadines
+  - South Carolina
+  - Saint Lucia
+  - South Dakota
+  - Syria
+  - Sweden
+  - South Sudan
+  - Solomon Islands
+  - Serbia
+  - Singapore
+  - Slovenia
+  - Sudan
+  - Sri Lanka
+  - San Marino
+  - Sierra Leone
+  - "Saint Barth\xE9lemy"
+  - South Korea
+  - Slovakia
+  - South Georgia
+  - "S\xE3o Tom\xE9 and Pr\xEDncipe"
+  - Saudi Arabia
+  - Saint Martin
+  - Saint Pierre and Miquelon
+  - Saint Helena
+  - Senegal
+  - Switzerland
+  - Svalbard and Jan Mayen
+  Pitcairn Islands:
+  - Suriname
+  - Saint Kitts and Nevis
+  - Sint Maarten
+  - Somalia
+  - South Africa
+  - Seychelles
+  - Spain
+  - Samoa
+  - Saint Vincent and the Grenadines
+  - South Carolina
+  - Saint Lucia
+  - South Dakota
+  - Syria
+  - Sweden
+  - South Sudan
+  - Solomon Islands
+  - Serbia
+  - Singapore
+  - Slovenia
+  - Sudan
+  - Sri Lanka
+  - San Marino
+  - Sierra Leone
+  - "Saint Barth\xE9lemy"
+  - South Korea
+  - Slovakia
+  - South Georgia
+  - "S\xE3o Tom\xE9 and Pr\xEDncipe"
+  - Saudi Arabia
+  - Saint Martin
+  - Saint Pierre and Miquelon
+  - Saint Helena
+  - Senegal
+  - Switzerland
+  - Svalbard and Jan Mayen
+  Poland:
+  - Dominican Republic
+  - DR Congo
+  - Djibouti
+  - Delaware
+  - District of Columbia
+  - Dominica
+  - Denmark
+  Portugal:
+  - Libya
+  - Laos
+  - Liechtenstein
+  - Liberia
+  - Latvia
+  - Luxembourg
+  - Louisiana
+  - Lebanon
+  - Lesotho
+  - Lithuania
+  Puerto Rico:
+  - Oklahoma
+  - Ohio
+  - Oregon
+  - Oman
+  Qatar:
+  - Republic of the Congo
+  - Rhode Island
+  - "R\xE9union"
+  - Russia
+  - Rwanda
+  - Romania
+  Republic of the Congo:
+  - Oklahoma
+  - Ohio
+  - Oregon
+  - Oman
+  Rhode Island:
+  - Dominican Republic
+  - DR Congo
+  - Djibouti
+  - Delaware
+  - District of Columbia
+  - Dominica
+  - Denmark
+  Romania:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Russia:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Rwanda:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  "R\xE9union":
+  - New Jersey
+  - North Korea
+  - New Caledonia
+  - Nicaragua
+  - Niger
+  - North Macedonia
+  - Netherlands
+  - New York
+  - North Dakota
+  - New Zealand
+  - Nepal
+  - Nauru
+  - New Hampshire
+  - Namibia
+  - Nevada
+  - Norfolk Island
+  - New Mexico
+  - Niue
+  - Nebraska
+  - Northern Mariana Islands
+  - North Carolina
+  - Norway
+  - Nigeria
+  "Saint Barth\xE9lemy":
+  - Yemen
+  Saint Helena:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Saint Kitts and Nevis:
+  - Suriname
+  - South Africa
+  - Sint Maarten
+  - Somalia
+  - Seychelles
+  - Spain
+  - Samoa
+  - Saint Vincent and the Grenadines
+  - South Carolina
+  - Saint Lucia
+  - South Dakota
+  - Syria
+  - Sweden
+  - South Sudan
+  - Solomon Islands
+  - Serbia
+  - Singapore
+  - Slovenia
+  - Sudan
+  - Sri Lanka
+  - San Marino
+  - Sierra Leone
+  - "Saint Barth\xE9lemy"
+  - South Korea
+  - Slovakia
+  - South Georgia
+  - "S\xE3o Tom\xE9 and Pr\xEDncipe"
+  - Saudi Arabia
+  - Saint Martin
+  - Saint Pierre and Miquelon
+  - Saint Helena
+  - Senegal
+  - Switzerland
+  - Svalbard and Jan Mayen
+  Saint Lucia:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Saint Martin:
+  - New Jersey
+  - North Korea
+  - New Caledonia
+  - Nicaragua
+  - Niger
+  - North Macedonia
+  - Netherlands
+  - New York
+  - North Dakota
+  - New Zealand
+  - Nepal
+  - Nauru
+  - New Hampshire
+  - Namibia
+  - Nevada
+  - Norfolk Island
+  - New Mexico
+  - Niue
+  - Nebraska
+  - Northern Mariana Islands
+  - North Carolina
+  - Norway
+  - Nigeria
+  Saint Pierre and Miquelon:
+  - New Jersey
+  - North Korea
+  - New Caledonia
+  - Nicaragua
+  - Niger
+  - North Macedonia
+  - Netherlands
+  - New York
+  - North Dakota
+  - New Zealand
+  - Nepal
+  - Nauru
+  - New Hampshire
+  - Namibia
+  - Nevada
+  - Norfolk Island
+  - New Mexico
+  - Niue
+  - Nebraska
+  - Northern Mariana Islands
+  - North Carolina
+  - Norway
+  - Nigeria
+  Saint Vincent and the Grenadines:
+  - Suriname
+  - Saint Kitts and Nevis
+  - Sint Maarten
+  - Somalia
+  - South Africa
+  - Seychelles
+  - Spain
+  - Samoa
+  - South Carolina
+  - Saint Lucia
+  - South Dakota
+  - Syria
+  - Sweden
+  - South Sudan
+  - Solomon Islands
+  - Serbia
+  - Singapore
+  - Slovenia
+  - Sudan
+  - Sri Lanka
+  - San Marino
+  - Sierra Leone
+  - "Saint Barth\xE9lemy"
+  - South Korea
+  - Slovakia
+  - South Georgia
+  - "S\xE3o Tom\xE9 and Pr\xEDncipe"
+  - Saudi Arabia
+  - Saint Martin
+  - Saint Pierre and Miquelon
+  - Saint Helena
+  - Senegal
+  - Switzerland
+  - Svalbard and Jan Mayen
+  Samoa:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  San Marino:
+  - Oklahoma
+  - Ohio
+  - Oregon
+  - Oman
+  Saudi Arabia:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Senegal:
+  - Libya
+  - Laos
+  - Liechtenstein
+  - Liberia
+  - Latvia
+  - Luxembourg
+  - Louisiana
+  - Lebanon
+  - Lesotho
+  - Lithuania
+  Serbia:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Seychelles:
+  - Suriname
+  - Saint Kitts and Nevis
+  - Sint Maarten
+  - Somalia
+  - South Africa
+  - Spain
+  - Samoa
+  - Saint Vincent and the Grenadines
+  - South Carolina
+  - Saint Lucia
+  - South Dakota
+  - Syria
+  - Sweden
+  - South Sudan
+  - Solomon Islands
+  - Serbia
+  - Singapore
+  - Slovenia
+  - Sudan
+  - Sri Lanka
+  - San Marino
+  - Sierra Leone
+  - "Saint Barth\xE9lemy"
+  - South Korea
+  - Slovakia
+  - South Georgia
+  - "S\xE3o Tom\xE9 and Pr\xEDncipe"
+  - Saudi Arabia
+  - Saint Martin
+  - Saint Pierre and Miquelon
+  - Saint Helena
+  - Senegal
+  - Switzerland
+  - Svalbard and Jan Mayen
+  Sierra Leone:
+  - Estonia
+  - Equatorial Guinea
+  - Ecuador
+  - Eritrea
+  - Egypt
+  - Eswatini
+  - Ethiopia
+  - El Salvador
+  Singapore:
+  - Estonia
+  - Equatorial Guinea
+  - Ecuador
+  - Eritrea
+  - Egypt
+  - Eswatini
+  - Ethiopia
+  - El Salvador
+  Sint Maarten:
+  - New Jersey
+  - North Korea
+  - New Caledonia
+  - Nicaragua
+  - Niger
+  - North Macedonia
+  - Netherlands
+  - New York
+  - North Dakota
+  - New Zealand
+  - Nepal
+  - Nauru
+  - New Hampshire
+  - Namibia
+  - Nevada
+  - Norfolk Island
+  - New Mexico
+  - Niue
+  - Nebraska
+  - Northern Mariana Islands
+  - North Carolina
+  - Norway
+  - Nigeria
+  Slovakia:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Slovenia:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Solomon Islands:
+  - Suriname
+  - Saint Kitts and Nevis
+  - Sint Maarten
+  - Somalia
+  - South Africa
+  - Seychelles
+  - Spain
+  - Samoa
+  - Saint Vincent and the Grenadines
+  - South Carolina
+  - Saint Lucia
+  - South Dakota
+  - Syria
+  - Sweden
+  - South Sudan
+  - Serbia
+  - Singapore
+  - Slovenia
+  - Sudan
+  - Sri Lanka
+  - San Marino
+  - Sierra Leone
+  - "Saint Barth\xE9lemy"
+  - South Korea
+  - Slovakia
+  - South Georgia
+  - "S\xE3o Tom\xE9 and Pr\xEDncipe"
+  - Saudi Arabia
+  - Saint Martin
+  - Saint Pierre and Miquelon
+  - Saint Helena
+  - Senegal
+  - Switzerland
+  - Svalbard and Jan Mayen
+  Somalia:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  South Africa:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  South Carolina:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  South Dakota:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  South Georgia:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  South Korea:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  South Sudan:
+  - New Jersey
+  - North Korea
+  - New Caledonia
+  - Nicaragua
+  - Niger
+  - North Macedonia
+  - Netherlands
+  - New York
+  - North Dakota
+  - New Zealand
+  - Nepal
+  - Nauru
+  - New Hampshire
+  - Namibia
+  - Nevada
+  - Norfolk Island
+  - New Mexico
+  - Niue
+  - Nebraska
+  - Northern Mariana Islands
+  - North Carolina
+  - Norway
+  - Nigeria
+  Spain:
+  - New Jersey
+  - North Korea
+  - New Caledonia
+  - Nicaragua
+  - Niger
+  - North Macedonia
+  - Netherlands
+  - New York
+  - North Dakota
+  - New Zealand
+  - Nepal
+  - Nauru
+  - New Hampshire
+  - Namibia
+  - Nevada
+  - Norfolk Island
+  - New Mexico
+  - Niue
+  - Nebraska
+  - Northern Mariana Islands
+  - North Carolina
+  - Norway
+  - Nigeria
+  Sri Lanka:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Sudan:
+  - New Jersey
+  - North Korea
+  - New Caledonia
+  - Nicaragua
+  - Niger
+  - North Macedonia
+  - Netherlands
+  - New York
+  - North Dakota
+  - New Zealand
+  - Nepal
+  - Nauru
+  - New Hampshire
+  - Namibia
+  - Nevada
+  - Norfolk Island
+  - New Mexico
+  - Niue
+  - Nebraska
+  - Northern Mariana Islands
+  - North Carolina
+  - Norway
+  - Nigeria
+  Suriname:
+  - Estonia
+  - Equatorial Guinea
+  - Ecuador
+  - Eritrea
+  - Egypt
+  - Eswatini
+  - Ethiopia
+  - El Salvador
+  Svalbard and Jan Mayen:
+  - New Jersey
+  - North Korea
+  - New Caledonia
+  - Nicaragua
+  - Niger
+  - North Macedonia
+  - Netherlands
+  - New York
+  - North Dakota
+  - New Zealand
+  - Nepal
+  - Nauru
+  - New Hampshire
+  - Namibia
+  - Nevada
+  - Norfolk Island
+  - New Mexico
+  - Niue
+  - Nebraska
+  - Northern Mariana Islands
+  - North Carolina
+  - Norway
+  - Nigeria
+  Sweden:
+  - New Jersey
+  - North Korea
+  - New Caledonia
+  - Nicaragua
+  - Niger
+  - North Macedonia
+  - Netherlands
+  - New York
+  - North Dakota
+  - New Zealand
+  - Nepal
+  - Nauru
+  - New Hampshire
+  - Namibia
+  - Nevada
+  - Norfolk Island
+  - New Mexico
+  - Niue
+  - Nebraska
+  - Northern Mariana Islands
+  - North Carolina
+  - Norway
+  - Nigeria
+  Switzerland:
+  - Dominican Republic
+  - DR Congo
+  - Djibouti
+  - Delaware
+  - District of Columbia
+  - Dominica
+  - Denmark
+  Syria:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  "S\xE3o Tom\xE9 and Pr\xEDncipe":
+  - Estonia
+  - Equatorial Guinea
+  - Ecuador
+  - Eritrea
+  - Egypt
+  - Eswatini
+  - Ethiopia
+  - El Salvador
+  Taiwan:
+  - New Jersey
+  - North Korea
+  - New Caledonia
+  - Nicaragua
+  - Niger
+  - North Macedonia
+  - Netherlands
+  - New York
+  - North Dakota
+  - New Zealand
+  - Nepal
+  - Nauru
+  - New Hampshire
+  - Namibia
+  - Nevada
+  - Norfolk Island
+  - New Mexico
+  - Niue
+  - Nebraska
+  - Northern Mariana Islands
+  - North Carolina
+  - Norway
+  - Nigeria
+  Tajikistan:
+  - New Jersey
+  - North Korea
+  - New Caledonia
+  - Nicaragua
+  - Niger
+  - North Macedonia
+  - Netherlands
+  - New York
+  - North Dakota
+  - New Zealand
+  - Nepal
+  - Nauru
+  - New Hampshire
+  - Namibia
+  - Nevada
+  - Norfolk Island
+  - New Mexico
+  - Niue
+  - Nebraska
+  - Northern Mariana Islands
+  - North Carolina
+  - Norway
+  - Nigeria
+  Tanzania:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Tennessee:
+  - Estonia
+  - Equatorial Guinea
+  - Ecuador
+  - Eritrea
+  - Egypt
+  - Eswatini
+  - Ethiopia
+  - El Salvador
+  Texas:
+  - Suriname
+  - Saint Kitts and Nevis
+  - Sint Maarten
+  - Somalia
+  - South Africa
+  - Seychelles
+  - Spain
+  - Samoa
+  - Saint Vincent and the Grenadines
+  - South Carolina
+  - Saint Lucia
+  - South Dakota
+  - Syria
+  - Sweden
+  - South Sudan
+  - Solomon Islands
+  - Serbia
+  - Singapore
+  - Slovenia
+  - Sudan
+  - Sri Lanka
+  - San Marino
+  - Sierra Leone
+  - "Saint Barth\xE9lemy"
+  - South Korea
+  - Slovakia
+  - South Georgia
+  - "S\xE3o Tom\xE9 and Pr\xEDncipe"
+  - Saudi Arabia
+  - Saint Martin
+  - Saint Pierre and Miquelon
+  - Saint Helena
+  - Senegal
+  - Switzerland
+  - Svalbard and Jan Mayen
+  Thailand:
+  - Dominican Republic
+  - DR Congo
+  - Djibouti
+  - Delaware
+  - District of Columbia
+  - Dominica
+  - Denmark
+  Timor-Leste:
+  - Estonia
+  - Equatorial Guinea
+  - Ecuador
+  - Eritrea
+  - Egypt
+  - Eswatini
+  - Ethiopia
+  - El Salvador
+  Togo:
+  - Oklahoma
+  - Ohio
+  - Oregon
+  - Oman
+  Tokelau:
+  - United Arab Emirates
+  - Uganda
+  - Utah
+  - United Kingdom
+  - Uruguay
+  - United States
+  - Ukraine
+  - United States Minor Outlying Islands
+  - Uzbekistan
+  - United States Virgin Islands
+  Tonga:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Trinidad and Tobago:
+  - Oklahoma
+  - Ohio
+  - Oregon
+  - Oman
+  Tunisia:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Turkey:
+  - Yemen
+  Turkmenistan:
+  - New Jersey
+  - North Korea
+  - New Caledonia
+  - Nicaragua
+  - Niger
+  - North Macedonia
+  - Netherlands
+  - New York
+  - North Dakota
+  - New Zealand
+  - Nepal
+  - Nauru
+  - New Hampshire
+  - Namibia
+  - Nevada
+  - Norfolk Island
+  - New Mexico
+  - Niue
+  - Nebraska
+  - Northern Mariana Islands
+  - North Carolina
+  - Norway
+  - Nigeria
+  Turks and Caicos Islands:
+  - Suriname
+  - Saint Kitts and Nevis
+  - Sint Maarten
+  - Somalia
+  - South Africa
+  - Seychelles
+  - Spain
+  - Samoa
+  - Saint Vincent and the Grenadines
+  - South Carolina
+  - Saint Lucia
+  - South Dakota
+  - Syria
+  - Sweden
+  - South Sudan
+  - Solomon Islands
+  - Serbia
+  - Singapore
+  - Slovenia
+  - Sudan
+  - Sri Lanka
+  - San Marino
+  - Sierra Leone
+  - "Saint Barth\xE9lemy"
+  - South Korea
+  - Slovakia
+  - South Georgia
+  - "S\xE3o Tom\xE9 and Pr\xEDncipe"
+  - Saudi Arabia
+  - Saint Martin
+  - Saint Pierre and Miquelon
+  - Saint Helena
+  - Senegal
+  - Switzerland
+  - Svalbard and Jan Mayen
+  Tuvalu:
+  - United Arab Emirates
+  - Uganda
+  - Utah
+  - United Kingdom
+  - Uruguay
+  - United States
+  - Ukraine
+  - United States Minor Outlying Islands
+  - Uzbekistan
+  - United States Virgin Islands
+  Uganda:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Ukraine:
+  - Estonia
+  - Equatorial Guinea
+  - Ecuador
+  - Eritrea
+  - Egypt
+  - Eswatini
+  - Ethiopia
+  - El Salvador
+  United Arab Emirates:
+  - Suriname
+  - Saint Kitts and Nevis
+  - Sint Maarten
+  - Somalia
+  - South Africa
+  - Seychelles
+  - Spain
+  - Samoa
+  - Saint Vincent and the Grenadines
+  - South Carolina
+  - Saint Lucia
+  - South Dakota
+  - Syria
+  - Sweden
+  - South Sudan
+  - Solomon Islands
+  - Serbia
+  - Singapore
+  - Slovenia
+  - Sudan
+  - Sri Lanka
+  - San Marino
+  - Sierra Leone
+  - "Saint Barth\xE9lemy"
+  - South Korea
+  - Slovakia
+  - South Georgia
+  - "S\xE3o Tom\xE9 and Pr\xEDncipe"
+  - Saudi Arabia
+  - Saint Martin
+  - Saint Pierre and Miquelon
+  - Saint Helena
+  - Senegal
+  - Switzerland
+  - Svalbard and Jan Mayen
+  United Kingdom:
+  - Myanmar
+  - Malta
+  - Mongolia
+  - Mauritius
+  - Madagascar
+  - Malawi
+  - Maryland
+  - Montserrat
+  - Mayotte
+  - Macau
+  - Maldives
+  - Mauritania
+  - Moldova
+  - Missouri
+  - Massachusetts
+  - Morocco
+  - Mali
+  - Montenegro
+  - Mozambique
+  - Micronesia
+  - Marshall Islands
+  - Maine
+  - Michigan
+  - Minnesota
+  - Monaco
+  - Mexico
+  - Montana
+  - Malaysia
+  - Martinique
+  - Mississippi
+  United States:
+  - Suriname
+  - Saint Kitts and Nevis
+  - Sint Maarten
+  - Somalia
+  - South Africa
+  - Seychelles
+  - Spain
+  - Samoa
+  - Saint Vincent and the Grenadines
+  - South Carolina
+  - Saint Lucia
+  - South Dakota
+  - Syria
+  - Sweden
+  - South Sudan
+  - Solomon Islands
+  - Serbia
+  - Singapore
+  - Slovenia
+  - Sudan
+  - Sri Lanka
+  - San Marino
+  - Sierra Leone
+  - "Saint Barth\xE9lemy"
+  - South Korea
+  - Slovakia
+  - South Georgia
+  - "S\xE3o Tom\xE9 and Pr\xEDncipe"
+  - Saudi Arabia
+  - Saint Martin
+  - Saint Pierre and Miquelon
+  - Saint Helena
+  - Senegal
+  - Switzerland
+  - Svalbard and Jan Mayen
+  United States Minor Outlying Islands:
+  - Suriname
+  - Saint Kitts and Nevis
+  - Sint Maarten
+  - Somalia
+  - South Africa
+  - Seychelles
+  - Spain
+  - Samoa
+  - Saint Vincent and the Grenadines
+  - South Carolina
+  - Saint Lucia
+  - South Dakota
+  - Syria
+  - Sweden
+  - South Sudan
+  - Solomon Islands
+  - Serbia
+  - Singapore
+  - Slovenia
+  - Sudan
+  - Sri Lanka
+  - San Marino
+  - Sierra Leone
+  - "Saint Barth\xE9lemy"
+  - South Korea
+  - Slovakia
+  - South Georgia
+  - "S\xE3o Tom\xE9 and Pr\xEDncipe"
+  - Saudi Arabia
+  - Saint Martin
+  - Saint Pierre and Miquelon
+  - Saint Helena
+  - Senegal
+  - Switzerland
+  - Svalbard and Jan Mayen
+  United States Virgin Islands:
+  - Suriname
+  - Saint Kitts and Nevis
+  - Sint Maarten
+  - Somalia
+  - South Africa
+  - Seychelles
+  - Spain
+  - Samoa
+  - Saint Vincent and the Grenadines
+  - South Carolina
+  - Saint Lucia
+  - South Dakota
+  - Syria
+  - Sweden
+  - South Sudan
+  - Solomon Islands
+  - Serbia
+  - Singapore
+  - Slovenia
+  - Sudan
+  - Sri Lanka
+  - San Marino
+  - Sierra Leone
+  - "Saint Barth\xE9lemy"
+  - South Korea
+  - Slovakia
+  - South Georgia
+  - "S\xE3o Tom\xE9 and Pr\xEDncipe"
+  - Saudi Arabia
+  - Saint Martin
+  - Saint Pierre and Miquelon
+  - Saint Helena
+  - Senegal
+  - Switzerland
+  - Svalbard and Jan Mayen
+  Uruguay:
+  - Yemen
+  Utah:
+  - Haiti
+  - Heard Island and McDonald Islands
+  - Hong Kong
+  - Honduras
+  - Hawaii
+  - Hungary
+  Uzbekistan:
+  - New Jersey
+  - North Korea
+  - New Caledonia
+  - Nicaragua
+  - Niger
+  - North Macedonia
+  - Netherlands
+  - New York
+  - North Dakota
+  - New Zealand
+  - Nepal
+  - Nauru
+  - New Hampshire
+  - Namibia
+  - Nevada
+  - Norfolk Island
+  - New Mexico
+  - Niue
+  - Nebraska
+  - Northern Mariana Islands
+  - North Carolina
+  - Norway
+  - Nigeria
+  Vanuatu:
+  - United Arab Emirates
+  - Uganda
+  - Utah
+  - United Kingdom
+  - Uruguay
+  - United States
+  - Ukraine
+  - United States Minor Outlying Islands
+  - Uzbekistan
+  - United States Virgin Islands
+  Vatican City:
+  - Yemen
+  Venezuela:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Vermont:
+  - Tunisia
+  - Trinidad and Tobago
+  - Tokelau
+  - Tuvalu
+  - Tonga
+  - Tanzania
+  - Tajikistan
+  - Texas
+  - Thailand
+  - Taiwan
+  - Turkmenistan
+  - Turkey
+  - Timor-Leste
+  - Tennessee
+  - Turks and Caicos Islands
+  - Togo
+  Vietnam:
+  - Myanmar
+  - Malta
+  - Mongolia
+  - Mauritius
+  - Madagascar
+  - Malawi
+  - Maryland
+  - Montserrat
+  - Mayotte
+  - Macau
+  - Maldives
+  - Mauritania
+  - Moldova
+  - Missouri
+  - Massachusetts
+  - Morocco
+  - Mali
+  - Montenegro
+  - Mozambique
+  - Micronesia
+  - Marshall Islands
+  - Maine
+  - Michigan
+  - Minnesota
+  - Monaco
+  - Mexico
+  - Montana
+  - Malaysia
+  - Martinique
+  - Mississippi
+  Virginia:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Wallis and Futuna:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Washington:
+  - New Jersey
+  - North Korea
+  - New Caledonia
+  - Nicaragua
+  - Niger
+  - North Macedonia
+  - Netherlands
+  - New York
+  - North Dakota
+  - New Zealand
+  - Nepal
+  - Nauru
+  - New Hampshire
+  - Namibia
+  - Nevada
+  - Norfolk Island
+  - New Mexico
+  - Niue
+  - Nebraska
+  - Northern Mariana Islands
+  - North Carolina
+  - Norway
+  - Nigeria
+  West Virginia:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Western Sahara:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Wisconsin:
+  - New Jersey
+  - North Korea
+  - New Caledonia
+  - Nicaragua
+  - Niger
+  - North Macedonia
+  - Netherlands
+  - New York
+  - North Dakota
+  - New Zealand
+  - Nepal
+  - Nauru
+  - New Hampshire
+  - Namibia
+  - Nevada
+  - Norfolk Island
+  - New Mexico
+  - Niue
+  - Nebraska
+  - Northern Mariana Islands
+  - North Carolina
+  - Norway
+  - Nigeria
+  Wyoming:
+  - Ghana
+  - Gibraltar
+  - Guatemala
+  - Guinea-Bissau
+  - Guyana
+  - Guernsey
+  - Germany
+  - Greenland
+  - Guadeloupe
+  - Greece
+  - Grenada
+  - Georgia
+  - Gambia
+  - Gabon
+  - Guinea
+  - Guam
+  Yemen:
+  - New Jersey
+  - North Korea
+  - New Caledonia
+  - Nicaragua
+  - Niger
+  - North Macedonia
+  - Netherlands
+  - New York
+  - North Dakota
+  - New Zealand
+  - Nepal
+  - Nauru
+  - New Hampshire
+  - Namibia
+  - Nevada
+  - Norfolk Island
+  - New Mexico
+  - Niue
+  - Nebraska
+  - Northern Mariana Islands
+  - North Carolina
+  - Norway
+  - Nigeria
+  Zambia:
+  - Alabama
+  - Algeria
+  - Albania
+  - Antigua and Barbuda
+  - American Samoa
+  - Armenia
+  - Andorra
+  - Argentina
+  - Aruba
+  - Angola
+  - Austria
+  - Azerbaijan
+  - Arizona
+  - Antarctica
+  - Arkansas
+  - Alaska
+  - Anguilla
+  - Australia
+  - Afghanistan
+  Zimbabwe:
+  - Estonia
+  - Equatorial Guinea
+  - Ecuador
+  - Eritrea
+  - Egypt
+  - Eswatini
+  - Ethiopia
+  - El Salvador
+  "\xC5land Islands":
+  - Suriname
+  - Saint Kitts and Nevis
+  - Sint Maarten
+  - Somalia
+  - South Africa
+  - Seychelles
+  - Spain
+  - Samoa
+  - Saint Vincent and the Grenadines
+  - South Carolina
+  - Saint Lucia
+  - South Dakota
+  - Syria
+  - Sweden
+  - South Sudan
+  - Solomon Islands
+  - Serbia
+  - Singapore
+  - Slovenia
+  - Sudan
+  - Sri Lanka
+  - San Marino
+  - Sierra Leone
+  - "Saint Barth\xE9lemy"
+  - South Korea
+  - Slovakia
+  - South Georgia
+  - "S\xE3o Tom\xE9 and Pr\xEDncipe"
+  - Saudi Arabia
+  - Saint Martin
+  - Saint Pierre and Miquelon
+  - Saint Helena
+  - Senegal
+  - Switzerland
+  - Svalbard and Jan Mayen
+longest_path:
+- Vietnam
+- Mauritius
+- Solomon Islands
+- Seychelles
+- Saint Vincent and the Grenadines
+- Saint Kitts and Nevis
+- Sweden
+- Northern Mariana Islands
+- Syria
+- Arkansas
+- Svalbard and Jan Mayen
+- Netherlands
+- Sri Lanka
+- Austria
+- Azerbaijan
+- North Macedonia
+- Afghanistan
+- Nauru
+- United Kingdom
+- Massachusetts
+- Sudan
+- Nepal
+- Laos
+- Spain
+- North Korea
+- Australia
+- Aruba
+- Armenia
+- Arizona
+- Argentina
+- Antigua and Barbuda
+- Antarctica
+- Anguilla
+- Angola
+- Andorra
+- American Samoa
+- Algeria
+- Albania
+- Alaska
+- Alabama
